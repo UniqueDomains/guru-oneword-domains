@@ -3,20 +3,20 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C011%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C010%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C011%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .guru one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .guru one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 8,010-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,011 domains** on the canonical page below.
 
-**Public extract:** 8,011 rows · **Live catalog:** 8,011 domains
+**Public extract:** 8,010 rows · **Live catalog:** 8,011 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/guru`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GURU one-word domain 
 
 ### Files
 
-- `guru.csv` — public CSV extract (8,011 rows)
-- `guru.json` — public JSON extract (8,011 rows)
+- `guru.csv` — public CSV extract (8,010 rows)
+- `guru.json` — public JSON extract (8,010 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,7 +65,7 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | inspired.guru | available | $3.99     | —             | 78             | 31     | 8      | name.com                                    |
-| bloom.guru    | resell    | $5,748.85 | $54.99        | 72             | 52     | 5      | Dynadot Inc                                 |
+| bloom.guru    | resell    | $5,748.85 | $54.99        | 72             | 53     | 5      | Dynadot Inc                                 |
 | mesh.guru     | premium   | $296,125  | —             | 74             | 81     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | lovely.guru   | available | $3.99     | $54.99        | 72             | 31     | 6      | name.com                                    |
 | atomic.guru   | resell    | $676.20   | $676.20       | 84             | 42     | 6      | Sav.com, LLC                                |
@@ -81,7 +81,7 @@ print(df.head())
 | creative.guru | premium   | $1,000    | $1,000        | 92             | 45     | 8      | name.com                                    |
 | fine.guru     | available | $3.99     | $54.99        | 80             | 29     | 4      | name.com                                    |
 | list.guru     | resell    | $5,748.85 | $54.99        | 70             | 36     | 4      | Sav.com, LLC - 27                           |
-| mix.guru      | premium   | $250      | $250          | 66             | 44     | 3      | name.com                                    |
+| mix.guru      | premium   | $250      | $250          | 66             | 45     | 3      | name.com                                    |
 | second.guru   | available | $3.99     | $54.99        | 120            | 28     | 6      | name.com                                    |
 | down.guru     | resell    | $3.99     | $54.99        | 76             | 21     | 4      | Spaceship, Inc.                             |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,011-row public sample | 8,011 live domains                               |
+| 8,010-row public sample | 8,011 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
