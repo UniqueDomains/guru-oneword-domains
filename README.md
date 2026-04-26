@@ -1,22 +1,22 @@
-# Available .GURU One-Word Domains (8,011)
+# Available .GURU One-Word Domains (10,216)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C009%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C011%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C216%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .guru one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,009-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,011 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,216 domains** on the canonical page below.
 
-**Public extract:** 8,009 rows · **Live catalog:** 8,011 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,216 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/guru`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GURU one-word domain 
 
 ### Files
 
-- `guru.csv` — public CSV extract (8,009 rows)
-- `guru.json` — public JSON extract (8,009 rows)
+- `guru.csv` — public CSV extract (1,000 rows)
+- `guru.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| inspired.guru | available | $3.99     | —             | 78             | 31     | 8      | name.com                                    |
-| bloom.guru    | resell    | $5,748.85 | $54.99        | 72             | 53     | 5      | Dynadot Inc                                 |
-| mesh.guru     | premium   | $296,125  | —             | 74             | 81     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| lovely.guru   | available | $3.99     | $54.99        | 72             | 31     | 6      | name.com                                    |
-| atomic.guru   | resell    | $676.20   | $676.20       | 84             | 42     | 6      | Sav.com, LLC                                |
-| ace.guru      | premium   | $250      | $250          | 88             | 57     | 3      | name.com                                    |
-| double.guru   | available | $3.99     | $54.99        | 92             | 30     | 6      | name.com                                    |
-| lucky.guru    | resell    | $6,898.85 | $54.99        | 76             | 42     | 5      | Sav.com, LLC - 10                           |
-| true.guru     | premium   | $123.75   | $123.75       | 86             | 48     | 4      | name.com                                    |
-| trinity.guru  | available | $3.99     | $54.99        | 72             | 30     | 7      | name.com                                    |
-| craft.guru    | resell    | $3,447.70 | $54.99        | 70             | 42     | 5      | Sav.com, LLC - 49                           |
-| big.guru      | premium   | $250      | $250          | 88             | 47     | 3      | name.com                                    |
-| pick.guru     | available | $3.99     | —             | 66             | 30     | 4      | name.com                                    |
-| sunrise.guru  | resell    | $676.20   | $54.99        | 102            | 39     | 7      | Sav.com, LLC                                |
-| creative.guru | premium   | $1,000    | $1,000        | 92             | 45     | 8      | name.com                                    |
-| fine.guru     | available | $3.99     | $54.99        | 80             | 29     | 4      | name.com                                    |
-| list.guru     | resell    | $5,748.85 | $54.99        | 70             | 36     | 4      | Sav.com, LLC - 27                           |
-| mix.guru      | premium   | $250      | $250          | 66             | 45     | 3      | name.com                                    |
-| second.guru   | available | $3.99     | $54.99        | 120            | 28     | 6      | name.com                                    |
-| down.guru     | resell    | $3.99     | $54.99        | 76             | 21     | 4      | Spaceship, Inc.                             |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| matcha.guru       | available | $3.99     | —             | 86             | 39     | 6      | name.com                                                  |
+| online.guru       | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Jim.guru          | premium   | $280      | $280          | 78             | 28     | 3      | namecheap                                                 |
+| bees.guru         | available | $3.99     | —             | 54             | 27     | 4      | name.com                                                  |
+| jobs.guru         | resell    | —         | —             | 79             | 42     | 4      | GoDaddy.com, LLC                                          |
+| Keith.guru        | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap                                                 |
+| Trex.guru         | available | $54.98    | —             | 80             | 24     | 5      | namecheap                                                 |
+| market.guru       | resell    | —         | —             | 74             | 41     | 6      | Porkbun LLC                                               |
+| vacations.guru    | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo                                                  |
+| whats.guru        | available | $3.99     | —             | 58             | 24     | 5      | name.com                                                  |
+| coins.guru        | resell    | —         | —             | 56             | 41     | 5      | Sav.com, LLC                                              |
+| pictures.guru     | premium   | $250      | —             | 82             | 17     | 8      | name.com                                                  |
+| reports.guru      | available | $3.99     | —             | 58             | 24     | 7      | name.com                                                  |
+| lets.guru         | resell    | —         | —             | 77             | 39     | 4      | Sav.com, LLC                                              |
+| roses.guru        | premium   | $123.75   | —             | 68             | 16     | 5      | name.com                                                  |
+| transparency.guru | available | $3.99     | —             | 86             | 23     | 12     | name.com                                                  |
+| payments.guru     | resell    | —         | —             | 58             | 33     | 8      | GoDaddy.com, LLC                                          |
+| holdings.guru     | premium   | $250      | —             | 52             | 14     | 8      | name.com                                                  |
+| superhero.guru    | available | $3.99     | —             | 84             | 23     | 9      | name.com                                                  |
+| trends.guru       | resell    | —         | —             | 60             | 32     | 6      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,009-row public sample | 8,011 live domains                               |
+| 1,000-row public sample | 10,216 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
