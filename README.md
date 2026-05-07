@@ -68,10 +68,10 @@ print(df.head())
 | online.guru    | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
 | Jim.guru       | premium   | $280      | $280          | 78             | 28     | 3      | namecheap                                                 |
 | bees.guru      | available | $3.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| jobs.guru      | resell    | —         | —             | 79             | 42     | 4      | GoDaddy.com, LLC                                          |
+| market.guru    | resell    | —         | —             | 74             | 43     | 6      | Porkbun LLC                                               |
 | Keith.guru     | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap                                                 |
 | whats.guru     | available | $3.99     | —             | 58             | 24     | 5      | name.com                                                  |
-| market.guru    | resell    | —         | —             | 74             | 41     | 6      | Porkbun LLC                                               |
+| jobs.guru      | resell    | —         | —             | 79             | 42     | 4      | GoDaddy.com, LLC                                          |
 | toys.guru      | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo                                                  |
 | reports.guru   | available | $3.99     | —             | 58             | 24     | 7      | name.com                                                  |
 | coins.guru     | resell    | —         | —             | 56             | 41     | 5      | Sav.com, LLC                                              |
