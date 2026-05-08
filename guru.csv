@@ -3,6 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00316af7-0be6-4741-a9c9-2f65edd2d88e,geton.guru,available,3.99,,82,10,6,name.com,,
 0037b6e2-2f14-46b0-971e-827dfd684364,persisted.guru,available,3.99,,52,2,9,name.com,,
 00455ad9-498f-4e51-80a8-1b16352c7818,publichousing.guru,available,3.99,,64,3,14,name.com,,
+004b1048-0286-4836-98e2-75c6983c0df0,island.guru,premium,,,72,34,6,,,
 00578a8a-5edd-4a5f-95a8-7678b741ffbe,users.guru,available,3.99,,54,18,5,name.com,,
 00c252ab-d198-4099-8bea-6f981edde60c,dustbunnies.guru,available,3.99,,38,5,12,name.com,,
 00da0357-77c4-4144-92f7-6f2525da1bb3,howtheheck.guru,available,3.99,,48,1,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 62191e27-aeee-4d76-a558-8d9807f5640f,tradeunions.guru,available,3.99,,48,1,12,name.com,,
 6256462a-d9ad-44a7-bb61-2001317c4e92,stonewalls.guru,available,3.99,,51,2,10,name.com,,
 625e4ae8-9ada-4f49-9d49-ee9f103dba08,pictures.guru,premium,250,,82,17,8,name.com,,
-6265613f-2934-460d-ba0c-cf7b38558ed7,setthescene.guru,available,3.99,,68,3,13,name.com,,
