@@ -390,6 +390,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2384cb3d-c997-44eb-bef7-f3472e2abeb8,moveup.guru,available,3.99,,79,14,7,name.com,,
 23a63132-3062-43f1-9b06-aed3bd9bb469,masterofceremonies.guru,available,3.99,,60,2,20,name.com,,
 23b0ea7c-43c7-48fd-b44b-887b5ad18512,whats.guru,available,3.99,,58,24,5,name.com,,
+23cac83d-3ab1-4e69-b35a-f00d16df0659,practicing.guru,premium,,,72,6,10,,,
 23eaa3ed-780d-4b2e-ad09-640ab7d791f3,whips.guru,available,3.99,,52,7,5,name.com,,
 23f5df3e-200b-47e5-b137-a73801ba707f,butterflies.guru,available,3.99,,90,8,11,name.com,,
 23fbc5cc-8851-4d20-a9b0-d26f1550b7a2,letsomethingslip.guru,available,3.99,,67,1,18,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6217c478-a842-43aa-b22a-571dfb9d6c2e,bolts.guru,available,3.99,,50,11,5,name.com,,
 62191e27-aeee-4d76-a558-8d9807f5640f,tradeunions.guru,available,3.99,,48,1,12,name.com,,
 6256462a-d9ad-44a7-bb61-2001317c4e92,stonewalls.guru,available,3.99,,51,2,10,name.com,,
-625e4ae8-9ada-4f49-9d49-ee9f103dba08,pictures.guru,premium,250,,82,17,8,name.com,,
