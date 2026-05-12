@@ -14,6 +14,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 017b0940-d460-4dd7-b81d-a334dc303fe0,vitalsign.guru,available,3.99,,72,4,10,name.com,,
 01989606-9176-44b1-883c-ad87e5fb2f8a,attends.guru,available,3.99,,54,6,7,name.com,,
 01bfe683-cf6b-419d-bda8-1e546eb17b43,walked.guru,available,3.99,,60,5,6,name.com,,
+01c200b5-7f10-415a-8885-5c0f7eefd771,Volkswagen.guru,available,3.99,,86,26,10,name.com,,
 01dad09a-4f0c-4161-b0ac-9b50acf53fcb,trussmember.guru,available,3.99,,50,1,12,name.com,,
 0207e69e-654f-422a-8e03-2c0804d3fd1c,launches.guru,available,3.99,,65,8,8,name.com,,
 02150fb3-3a49-44be-a253-cd6cfecc3edb,languages.guru,available,3.99,,62,12,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 62128b68-065d-49b9-b8f4-578ca4fa7cc8,estatebottled.guru,available,3.99,,56,0,14,name.com,,
 6217c478-a842-43aa-b22a-571dfb9d6c2e,bolts.guru,available,3.99,,50,11,5,name.com,,
 62191e27-aeee-4d76-a558-8d9807f5640f,tradeunions.guru,available,3.99,,48,1,12,name.com,,
-6256462a-d9ad-44a7-bb61-2001317c4e92,stonewalls.guru,available,3.99,,51,2,10,name.com,,

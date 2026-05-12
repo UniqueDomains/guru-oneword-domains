@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| matcha.guru    | available | $3.99     | —             | 86             | 39     | 6      | name.com                                                  |
-| online.guru    | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Jim.guru       | premium   | $280      | $280          | 78             | 28     | 3      | namecheap                                                 |
-| bees.guru      | available | $3.99     | —             | 54             | 27     | 4      | name.com                                                  |
-| market.guru    | resell    | —         | —             | 74             | 43     | 6      | Porkbun LLC                                               |
-| Keith.guru     | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap                                                 |
-| whats.guru     | available | $3.99     | —             | 58             | 24     | 5      | name.com                                                  |
-| jobs.guru      | resell    | —         | —             | 79             | 42     | 4      | GoDaddy.com, LLC                                          |
-| toys.guru      | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo                                                  |
-| reports.guru   | available | $3.99     | —             | 58             | 24     | 7      | name.com                                                  |
-| coins.guru     | resell    | —         | —             | 56             | 41     | 5      | Sav.com, LLC                                              |
-| vacations.guru | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo                                                  |
-| superhero.guru | available | $3.99     | —             | 84             | 23     | 9      | name.com                                                  |
-| letsgo.guru    | resell    | —         | —             | 57             | 31     | 7      | Dynadot Inc                                               |
-| roses.guru     | premium   | $123.75   | —             | 68             | 16     | 5      | name.com                                                  |
-| veterans.guru  | available | $3.99     | —             | 56             | 23     | 8      | name.com                                                  |
-| slots.guru     | resell    | —         | —             | 49             | 31     | 5      | GoDaddy.com, LLC                                          |
-| island.guru    | premium   | —         | —             | 72             | 34     | 6      | —                                                         |
-| unicorns.guru  | available | $3.99     | —             | 73             | 21     | 8      | name.com                                                  |
-| videos.guru    | resell    | —         | —             | 52             | 30     | 6      | Dynadot Inc                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| matcha.guru     | available | $3.99     | —             | 86             | 39     | 6      | name.com                                                  |
+| online.guru     | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Jim.guru        | premium   | $280      | $280          | 78             | 28     | 3      | namecheap                                                 |
+| bees.guru       | available | $3.99     | —             | 54             | 27     | 4      | name.com                                                  |
+| market.guru     | resell    | —         | —             | 74             | 43     | 6      | Porkbun LLC                                               |
+| Keith.guru      | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap                                                 |
+| Volkswagen.guru | available | $3.99     | —             | 86             | 26     | 10     | name.com                                                  |
+| jobs.guru       | resell    | —         | —             | 79             | 42     | 4      | GoDaddy.com, LLC                                          |
+| toys.guru       | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo                                                  |
+| whats.guru      | available | $3.99     | —             | 58             | 24     | 5      | name.com                                                  |
+| coins.guru      | resell    | —         | —             | 56             | 41     | 5      | Sav.com, LLC                                              |
+| vacations.guru  | premium   | $118.80   | $118.80       | 56             | 19     | 9      | namesilo                                                  |
+| reports.guru    | available | $3.99     | —             | 58             | 24     | 7      | name.com                                                  |
+| letsgo.guru     | resell    | —         | —             | 57             | 31     | 7      | Dynadot Inc                                               |
+| roses.guru      | premium   | $123.75   | —             | 68             | 16     | 5      | name.com                                                  |
+| superhero.guru  | available | $3.99     | —             | 84             | 23     | 9      | name.com                                                  |
+| slots.guru      | resell    | —         | —             | 49             | 31     | 5      | GoDaddy.com, LLC                                          |
+| island.guru     | premium   | —         | —             | 72             | 34     | 6      | —                                                         |
+| veterans.guru   | available | $3.99     | —             | 56             | 23     | 8      | name.com                                                  |
+| videos.guru     | resell    | —         | —             | 52             | 30     | 6      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
