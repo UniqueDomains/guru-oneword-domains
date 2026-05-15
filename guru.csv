@@ -246,6 +246,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 16e8d60a-c209-4d79-b9d6-5c35a872a821,turnedoff.guru,available,3.99,,42,1,10,name.com,,
 170aa1d3-9565-4678-a409-9699c4c8ba34,thebird.guru,available,3.99,,58,6,8,name.com,,
 171a4fbb-c8a2-480a-b3a2-a1f02a12dc0e,commonmeter.guru,available,3.99,,68,1,12,name.com,,
+1739e2ce-5970-4d51-a2d6-bc3a6b3c42d1,subjectmatter.guru,premium,,,64,5,14,,,
 173d0666-942d-44a9-8906-94041ee49821,artgalleries.guru,available,3.99,,57,4,13,name.com,,
 1745af13-bc0c-42aa-ae4b-9b17b6aa66aa,planes.guru,available,3.99,,67,13,6,name.com,,
 174d9809-0495-4767-95a6-c0cb96338762,reminded.guru,available,3.99,,60,4,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61fc528d-e454-4c4d-8ae2-717ed6309b90,excites.guru,available,3.99,,50,2,7,name.com,,
 62128b68-065d-49b9-b8f4-578ca4fa7cc8,estatebottled.guru,available,3.99,,56,0,14,name.com,,
 6217c478-a842-43aa-b22a-571dfb9d6c2e,bolts.guru,available,3.99,,50,11,5,name.com,,
-62191e27-aeee-4d76-a558-8d9807f5640f,tradeunions.guru,available,3.99,,48,1,12,name.com,,
