@@ -179,6 +179,7 @@ d853865c-10a6-42eb-9913-298ec3864fb6,embayment.guru,available,2.98,54.98,low,low
 d9f4b032-4479-419e-ad49-9baf8fe6ca2b,bedridden.guru,available,2.98,54.98,low,low,9,namecheap,,
 20a6b1c3-6df4-471c-9327-deca156db64a,score.guru,resell,,,high,low,5,Dynadot Inc,19/09/2025 19:42,19/09/2026 19:42
 362b0eba-130f-46cc-ac5d-34db4e5a251b,publicity.guru,resell,,,high,low,9,"Spaceship, Inc.",26/07/2025 20:01,26/07/2026 20:01
+31608f5c-e5d6-42b2-ba0d-50d945c05603,safety.guru,resell,,,medium,low,6,"Spaceship, Inc.",20/04/2019 09:06,20/04/2027 09:06
 b7fb28cf-d5ce-4a8b-b168-75e568b1c808,somehow.guru,available,3.99,,medium,low,7,name.com,,
 f0804912-4bf3-4774-9d0b-dad038f50107,makeright.guru,available,3.99,,high,low,10,name.com,,
 02e69179-426d-47d6-8738-2c2f2b51def5,bankmachine.guru,available,3.99,,medium,low,12,name.com,,
@@ -357,7 +358,6 @@ e9f50529-09a4-4cf2-9aaa-96885c4d73e1,WorldWideWeb.guru,available,3.99,,low,low,1
 45848de6-f4c8-4fc5-ba1a-a3c5c81056d9,adjunct.guru,available,2.98,54.98,low,low,7,namecheap,,
 6c763b5d-8198-4a47-9ef4-b2da31409d6c,abatable.guru,available,2.98,54.98,low,low,8,namecheap,,
 a40697af-cc60-4b3c-9c20-df16a215121b,feelfree.guru,available,3.99,,medium,low,9,name.com,,
-0885692f-3d51-4340-b77f-8bc429819e4b,influence.guru,resell,,,high,low,9,"Sav.com, LLC",17/09/2025 22:19,17/09/2026 22:19
 e4793c95-d682-4c20-9ff3-202e1b3087f2,inthelightof.guru,available,3.99,,medium,low,15,name.com,,
 1d89ca47-6de6-41b0-a80d-6b67b7200c92,sweet.guru,resell,,,high,low,5,Dynadot Inc,17/07/2025 17:00,17/07/2026 17:00
 29c51b84-10e4-4c45-8f6e-83a0d733d63e,finished.guru,available,3.99,,medium,low,8,name.com,,
@@ -690,7 +690,7 @@ e9ee2be2-af6d-42dc-93c3-6717a704f5aa,acquitted.guru,available,2.98,54.98,low,low
 e6639f42-8d4e-46c5-896b-da3c1c6e26a8,acetous.guru,available,2.98,54.98,low,low,7,namecheap,,
 9321c1b9-5d41-470d-83dc-ac16d72803ed,whitesnow.guru,available,3.99,,medium,low,10,name.com,,
 7be19c0b-be50-4bca-a4ff-cb536c44646b,aeschylean.guru,available,2.98,54.98,low,low,10,namecheap,,
-8b47036b-c242-468e-bd95-0f9b3b6bb6d9,provisions.guru,available,3.99,,high,low,10,name.com,,
+8b47036b-c242-468e-bd95-0f9b3b6bb6d9,provisions.guru,available,2.98,54.98,medium,low,10,namecheap,,
 359a2b00-0b7a-41fa-82e5-b22fa878382c,independenceday.guru,available,3.99,,high,low,16,name.com,,
 0bb43d72-d389-4c16-a881-86bd93f92c66,asthecasemaybe.guru,available,3.99,,medium,low,18,name.com,,
 3ad693a1-bfb1-4415-bd2d-aa947fe49d32,reserve.guru,available,2.98,54.98,low,low,7,namecheap,,
