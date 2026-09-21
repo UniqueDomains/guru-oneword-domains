@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .guru one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,260 domains · **Median ask:** $17.74 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/guru`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| gay.guru      | premium   | $242       | $242          | high           | medium | 3      | namesilo          |
-| steady.guru   | available | $3.99      | —             | high           | low    | 6      | name.com          |
 | clv.guru      | available | $2.98      | $54.98        | low            | low    | 3      | namecheap         |
 | payment.guru  | resell    | $29,612.50 | —             | medium         | low    | 7      | name.com          |
 | aaa.guru      | premium   | $1,040     | $1,040        | high           | medium | 3      | namecheap         |
 | mmr.guru      | available | $3.99      | —             | high           | low    | 3      | name.com          |
 | accident.guru | resell    | $115       | $115          | medium         | low    | 8      | Sav.com, LLC - 35 |
-| arm.guru      | premium   | $242       | $242          | high           | medium | 3      | namesilo          |
+| add.guru      | premium   | $242       | $242          | high           | low    | 3      | namesilo          |
 | auld.guru     | available | $2.98      | $54.98        | low            | low    | 4      | namecheap         |
 | the.guru      | resell    | —          | —             | high           | medium | 3      | Dynadot Inc       |
-| boy.guru      | premium   | $1,000     | —             | medium         | low    | 3      | name.com          |
+| arm.guru      | premium   | $242       | $242          | high           | medium | 3      | namesilo          |
 | ball.guru     | available | $3.99      | —             | medium         | low    | 4      | name.com          |
 | auto.guru     | resell    | —          | —             | medium         | medium | 4      | Spaceship, Inc.   |
-| did.guru      | premium   | $242       | $242          | high           | low    | 3      | namesilo          |
+| boy.guru      | premium   | $1,000     | —             | medium         | low    | 3      | name.com          |
 | bead.guru     | available | $3.99      | —             | high           | low    | 4      | name.com          |
 | baby.guru     | resell    | —          | —             | high           | low    | 4      | Spaceship, Inc.   |
-| end.guru      | premium   | $1,040     | $1,040        | medium         | low    | 3      | namecheap         |
+| did.guru      | premium   | $242       | $242          | high           | low    | 3      | namesilo          |
 | bore.guru     | available | $3.99      | $54.99        | high           | low    | 4      | name.com          |
 | care.guru     | resell    | —          | —             | high           | low    | 4      | Porkbun LLC       |
-| few.guru      | premium   | $242       | $242          | high           | low    | 3      | namesilo          |
+| end.guru      | premium   | $1,040     | $1,040        | medium         | low    | 3      | namecheap         |
+| chin.guru     | available | $3.99      | —             | medium         | low    | 4      | name.com          |
+| date.guru     | resell    | —          | —             | high           | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
