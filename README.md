@@ -1,10 +1,10 @@
-# Available .GURU One-Word Domains (14,664)
+# Available .GURU One-Word Domains (19,761)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C664%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C761%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .guru one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,664 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,761 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,664 domains · **Median ask:** $19.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 19,761 domains · **Median ask:** $28.69 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/guru`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| clv.guru      | available | $2.98     | $54.98        | high           | low    | 3      | namecheap         |
-| accident.guru | resell    | $115      | $115          | high           | low    | 8      | Sav.com, LLC - 35 |
-| aaa.guru      | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap         |
-| clx.guru      | available | $2.98     | $54.98        | high           | low    | 3      | namecheap         |
-| bae.guru      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
-| add.guru      | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| eid.guru      | available | $3.99     | —             | high           | low    | 3      | name.com          |
-| the.guru      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| arm.guru      | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
-| llp.guru      | available | $3.99     | —             | high           | low    | 3      | name.com          |
-| auto.guru     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
-| boy.guru      | premium   | $1,000    | —             | high           | low    | 3      | name.com          |
-| mmr.guru      | available | $3.99     | —             | high           | low    | 3      | name.com          |
-| baby.guru     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
-| dad.guru      | premium   | $854      | $854          | high           | low    | 3      | namesilo          |
-| xci.guru      | available | $2.98     | $54.98        | medium         | low    | 3      | namecheap         |
-| beer.guru     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 32 |
-| did.guru      | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| xlv.guru      | available | $2.98     | $54.98        | high           | low    | 3      | namecheap         |
-| book.guru     | resell    | —         | —             | high           | medium | 4      | Virtualia LLC     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| eternal.guru    | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC                                              |
+| nonstop.guru    | available | $4.49     | $42.99        | high           | low    | 7      | namesilo                                                  |
+| red.guru        | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 4                                          |
+| pyramid.guru    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| determined.guru | available | $4.49     | $42.99        | high           | low    | 10     | namesilo                                                  |
+| access.guru     | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                               |
+| convenient.guru | available | $3.99     | $54.99        | high           | low    | 10     | name.com                                                  |
+| motivation.guru | resell    | —         | —             | high           | low    | 10     | Sav.com, LLC - 40                                         |
+| choice.guru     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
+| dot.guru        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| burning.guru    | available | $4.49     | $42.99        | high           | low    | 7      | namesilo                                                  |
+| amber.guru      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
+| easy.guru       | resell    | —         | —             | high           | high   | 4      | Sav.com, LLC - 11                                         |
+| bmr.guru        | available | $4.49     | $42.99        | high           | low    | 3      | namesilo                                                  |
+| living.guru     | resell    | $7,590    | $41.25        | high           | low    | 6      | name.com                                                  |
+| bob.guru        | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                                  |
+| clx.guru        | available | $2.98     | $54.98        | high           | low    | 3      | namecheap                                                 |
+| mobile.guru     | resell    | $5,922.50 | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| did.guru        | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| eid.guru        | available | $3.99     | —             | high           | low    | 3      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,664 live domains                        |
+| 1,000-row public sample | 19,761 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GURU One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
