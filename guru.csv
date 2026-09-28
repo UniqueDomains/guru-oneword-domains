@@ -2,19 +2,20 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 bd41efad-01a3-4cbf-ad7a-754dd8c2b36e,norris.guru,available,4.49,42.99,high,low,6,namesilo,,,23/09/2026 08:18
 336d149c-14db-4128-8b3e-2ab07dbffdbf,revisions.guru,available,4.49,42.99,medium,low,9,namesilo,,,20/09/2026 05:28
 6be9a20b-0b5f-4e78-9557-4c664e5de879,lxxi.guru,available,2.98,54.98,medium,low,4,namecheap,,,
-a538abc5-ca30-4f59-b33b-95740f42aec5,imposter.guru,available,2.98,54.98,high,low,8,namecheap,,,09/09/2026 04:57
+a538abc5-ca30-4f59-b33b-95740f42aec5,imposter.guru,available,2.98,54.98,medium,low,8,namecheap,,,09/09/2026 04:57
 98e790f0-6b6e-4a9d-a291-e2c746f78104,enteral.guru,available,2.98,54.98,medium,low,7,namecheap,,,17/08/2026 09:55
 4ff066a7-f2db-4edc-90fa-ef78aecbc685,caprine.guru,available,2.98,54.98,medium,low,7,namecheap,,,11/08/2026 18:06
 eb8de1fa-ecb4-4074-8bec-9cff6f040804,shotgun.guru,available,4.49,42.99,high,low,7,namesilo,,,26/09/2026 00:14
 e7b2d5fc-2128-4edf-8270-71c08fee7277,pluperfect.guru,available,2.98,54.98,medium,low,10,namecheap,,,08/09/2026 22:00
 1b8f5991-1d6b-49f0-8c57-ce594194061a,cards.guru,resell,,,high,low,5,"Sav.com, LLC",01/04/2026 17:24,01/04/2027 17:24,26/09/2026 04:46
-90cf78b7-a45c-44e9-a0c8-f183d8fc1827,xxxi.guru,available,2.98,54.98,high,low,4,namecheap,,,
+90cf78b7-a45c-44e9-a0c8-f183d8fc1827,xxxi.guru,available,2.98,54.98,medium,low,4,namecheap,,,
 c7486b59-51cc-4e69-8f3a-1a24d9d2836f,gastropod.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/09/2026 14:04
 e8696c93-1fef-4f42-8803-f21c8991be74,permit.guru,available,4.49,42.99,high,low,6,namesilo,,,24/09/2026 18:39
+7e5d004c-cc32-4e9a-ac27-818623124861,traditional.guru,available,4.49,42.99,high,low,11,namesilo,,,27/09/2026 16:56
 bb8b7dc6-4608-4fd7-b940-74552e47595b,tied.guru,available,2.98,54.98,high,low,4,namecheap,,,22/08/2026 17:45
 cd0303a2-c9cf-49ea-ab75-cf7aee5604fe,acapulco.guru,available,2.98,54.98,high,low,8,namecheap,,,16/09/2026 21:10
 98c2d488-10a0-49af-9263-9b5ad125e7de,pseudo.guru,available,2.98,54.98,high,low,6,namecheap,,,09/09/2026 04:56
-874c53fe-9833-4804-b5f5-007d73cfeb1b,mahan.guru,available,4.49,42.99,high,low,5,namesilo,,,18/09/2026 06:45
+874c53fe-9833-4804-b5f5-007d73cfeb1b,mahan.guru,available,4.49,42.99,medium,low,5,namesilo,,,18/09/2026 06:45
 d1f98eb3-898b-4000-9545-69b067563b21,bleak.guru,available,2.98,54.98,medium,low,5,namecheap,,,08/08/2026 21:02
 94743426-b6b1-4b46-83f1-20e44edf0b48,nebulous.guru,available,2.98,54.98,medium,low,8,namecheap,,,12/08/2026 12:45
 a94b749b-3d2e-4427-a00d-21dcbb7c0df7,theoretic.guru,available,2.98,54.98,medium,low,9,namecheap,,,11/09/2026 12:54
@@ -28,7 +29,7 @@ ef8e140e-b55c-4e9b-a2b4-4cba848dde93,arbour.guru,available,4.49,42.99,medium,low
 8b82096e-cb5f-4f3a-8fa0-f6512691d60f,injectable.guru,available,2.98,54.98,high,low,10,namecheap,,,22/08/2026 05:36
 bcb50a2d-86c4-407d-a429-9beec15f4c99,dryness.guru,available,2.98,54.98,high,low,7,namecheap,,,24/09/2026 22:51
 a4db3870-76cb-4f3c-9984-d11f63aa03b9,belling.guru,available,4.49,42.99,medium,low,7,namesilo,,,23/09/2026 06:11
-7e4967d6-89ef-4c34-b38d-f6c0c05ed414,deary.guru,available,3.99,54.99,high,low,5,name.com,,,13/08/2026 18:21
+7e4967d6-89ef-4c34-b38d-f6c0c05ed414,deary.guru,available,3.99,54.99,medium,low,5,name.com,,,13/08/2026 18:21
 1a23351f-c29b-4a6f-922e-42104cc89109,boarding.guru,available,4.49,42.99,high,low,8,namesilo,,,27/09/2026 11:44
 0c820b34-c833-40dd-83f6-f8d37c7e5119,turtledove.guru,available,4.49,42.99,medium,low,10,namesilo,,,21/09/2026 04:53
 c3cdd693-4842-4872-8016-1e3f958f8c37,polemic.guru,available,2.98,54.98,medium,low,7,namecheap,,,08/09/2026 22:51
@@ -57,7 +58,7 @@ f4dbd353-91f5-44a0-bd4f-7f38b0ab2f42,pulverized.guru,available,2.98,54.98,medium
 75dc66e2-9e43-4212-bbae-a2ec9715974a,vice.guru,available,3.99,,high,low,4,name.com,,,
 43cc00be-7c33-49d8-99d7-2da4e0345a82,fulton.guru,available,4.49,42.99,high,low,6,namesilo,,,25/09/2026 06:12
 1bb7e6e9-064b-4663-b4c0-6938ea876517,untypical.guru,available,2.98,54.98,medium,low,9,namecheap,,,07/08/2026 16:10
-3852e671-d114-4a0c-811d-8786ada843e3,mercantile.guru,available,2.98,54.98,high,low,10,namecheap,,,24/08/2026 20:23
+3852e671-d114-4a0c-811d-8786ada843e3,mercantile.guru,available,2.98,54.98,medium,low,10,namecheap,,,24/08/2026 20:23
 94ebc1e5-2827-4c7e-afc8-6b733d5e1d45,anopheles.guru,available,4.49,42.99,medium,low,9,namesilo,,,19/09/2026 11:39
 ca77327a-b16d-4aed-9cc8-97cef1f79344,barouche.guru,available,4.49,42.99,high,low,8,namesilo,,,22/09/2026 07:43
 f423d829-d46b-4611-9e88-2c144d361434,agamid.guru,available,4.49,42.99,medium,low,6,namesilo,,,17/09/2026 16:08
@@ -82,7 +83,7 @@ de6aefad-91a4-453c-8e15-3ecc70339346,canvasback.guru,available,4.49,42.99,medium
 1ca1c71c-2394-4759-aeb8-53a081baa76c,nonstop.guru,available,4.49,42.99,high,low,7,namesilo,,,22/09/2026 08:07
 5478d986-376c-483e-981e-a2eeb92ed2c6,agronomist.guru,available,2.98,54.98,medium,low,10,namecheap,,,17/09/2026 19:41
 7bb7aa95-c977-41de-bb63-33b2a15b11e7,joining.guru,available,4.49,42.99,high,low,7,namesilo,,,25/09/2026 23:20
-296bc68d-329b-4c4c-a701-4957eccbab52,mincing.guru,available,3.99,54.99,high,low,7,name.com,,,13/08/2026 15:43
+296bc68d-329b-4c4c-a701-4957eccbab52,mincing.guru,available,3.99,54.99,medium,low,7,name.com,,,13/08/2026 15:43
 b1578000-87d8-487b-92a6-57b54e2ebb85,granola.guru,available,3.99,,high,low,7,name.com,,,
 79cdc928-5240-431f-8d19-00d9e955b9f6,fixing.guru,available,4.49,42.99,high,low,6,namesilo,,,18/09/2026 14:47
 8657c4e2-57b0-40b4-a3d4-735ebf3a15e6,pith.guru,available,2.98,54.98,high,low,4,namecheap,,,14/09/2026 23:55
@@ -102,12 +103,12 @@ c7241b22-f718-4d5a-bce3-893084e68767,sore.guru,available,2.98,54.98,high,low,4,n
 4c0b6516-7287-4c4a-8fc5-fcac3aa3d99b,acids.guru,available,3.99,,medium,low,5,name.com,,,
 9ae32393-6c56-4d23-b4ca-4106731ca2c9,bandleader.guru,available,4.49,42.99,high,low,10,namesilo,,,22/09/2026 01:25
 0b916d2e-f174-47bd-8373-8049cd03c339,passion.guru,resell,,,high,low,7,"Sav.com, LLC",07/05/2026 20:58,07/05/2027 20:58,26/09/2026 08:03
-df41a559-7a43-42b0-bfb8-fe0ce6ce3df5,satirical.guru,available,2.98,54.98,high,low,9,namecheap,,,09/09/2026 21:49
+df41a559-7a43-42b0-bfb8-fe0ce6ce3df5,satirical.guru,available,2.98,54.98,medium,low,9,namecheap,,,09/09/2026 21:49
 bff42ee4-a79b-4282-a55b-d934db8cd5b7,socialized.guru,available,2.98,54.98,medium,low,10,namecheap,,,10/09/2026 13:12
 9fbea5db-9f51-4915-bd99-521376825af2,oldfield.guru,available,4.49,42.99,medium,low,8,namesilo,,,22/09/2026 06:52
 6bf695c5-547b-4cbb-bcb6-6f2adffe22fe,palmar.guru,available,2.98,54.98,medium,low,6,namecheap,,,04/09/2026 23:58
 f314ced5-31c0-4eb8-bfd3-22ddc0277b93,translunar.guru,available,2.98,54.98,medium,low,10,namecheap,,,11/09/2026 02:19
-958ddf3a-972e-43f3-a347-f881e37abd84,agony.guru,available,2.98,54.98,high,low,5,namecheap,,,11/09/2026 01:10
+958ddf3a-972e-43f3-a347-f881e37abd84,agony.guru,available,2.98,54.98,medium,low,5,namecheap,,,11/09/2026 01:10
 87a4680d-fb2e-4d0c-ab6f-58c205b2b080,nonionic.guru,available,2.98,54.98,medium,low,8,namecheap,,,03/09/2026 19:33
 9b12f5de-698e-449a-89a4-401553a08f6a,borrowed.guru,available,4.49,42.99,medium,low,8,namesilo,,,27/09/2026 09:49
 b7bb1818-e4c8-4895-9eb9-d3131005c533,chetah.guru,available,4.49,42.99,medium,low,6,namesilo,,,17/09/2026 01:35
@@ -124,10 +125,10 @@ f6b13d3f-41c5-46f7-8ddb-400b99a50548,cautionary.guru,available,2.98,54.98,high,l
 f0c4a299-a8d7-400c-8ee3-b641d8150bfe,requests.guru,available,2.98,54.98,medium,low,8,namecheap,,,17/09/2026 17:07
 744c8cde-dd0b-4ce0-b2c0-6c49a1705662,class.guru,resell,,,high,low,5,"Sav.com, LLC - 6",23/12/2023 15:15,23/12/2026 15:15,26/09/2026 04:58
 4b4026a5-e974-42c0-ba0a-064f8eaaa05c,badly.guru,available,4.49,42.99,medium,low,5,namesilo,,,22/09/2026 16:07
-57d965d6-66d1-4754-9331-f8164bcf1586,ashkenazi.guru,available,4.49,42.99,high,low,9,namesilo,,,20/09/2026 13:54
+57d965d6-66d1-4754-9331-f8164bcf1586,ashkenazi.guru,available,4.49,42.99,medium,low,9,namesilo,,,20/09/2026 13:54
 e999899b-2dfc-47ee-98d1-fbdc14774222,grouch.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/08/2026 04:56
 d533218f-322b-41b4-bdef-483fd651bd68,universally.guru,available,3.99,,high,low,11,name.com,,,
-93e527d3-8b2b-4ea6-b488-77b4d9d285d1,locomotor.guru,available,2.98,54.98,high,low,9,namecheap,,,24/08/2026 08:50
+93e527d3-8b2b-4ea6-b488-77b4d9d285d1,locomotor.guru,available,2.98,54.98,medium,low,9,namecheap,,,24/08/2026 08:50
 50054e81-e028-4b2a-a9b7-e7df1b691cde,balk.guru,available,2.98,54.98,medium,low,4,namecheap,,,14/08/2026 04:55
 3ad4e7df-fa43-402f-902a-0b3b1c0eaf79,behavioral.guru,available,2.98,54.98,medium,low,10,namecheap,,,09/08/2026 10:16
 78688c6c-bb86-489b-b06f-3c38b24d07e0,pit.guru,premium,242,242,high,low,3,namesilo,,,24/09/2026 13:22
@@ -135,7 +136,7 @@ fe5aafc2-6665-458d-82d9-817d55f6f589,resolved.guru,available,2.27,34.36,high,low
 fc5b50cc-028b-4602-a74d-e008e800c90e,defection.guru,available,2.98,54.98,medium,low,9,namecheap,,,19/09/2026 19:16
 173f2f2c-8f53-4c77-bd2d-2f6124bcb220,aquamarine.guru,available,4.49,42.99,high,low,10,namesilo,,,19/09/2026 22:49
 3e7ec90f-252b-4821-af8d-571eda587a22,orbitual.guru,available,2.98,54.98,medium,low,8,namecheap,,,04/09/2026 17:39
-f09d82c2-d03d-43b4-97dd-9769ecc193ca,allusive.guru,available,2.98,54.98,high,low,8,namecheap,,,
+f09d82c2-d03d-43b4-97dd-9769ecc193ca,allusive.guru,available,2.98,54.98,medium,low,8,namecheap,,,
 fac66860-925f-4da0-acf2-0ff2567de48e,crushing.guru,available,2.98,54.98,high,low,8,namecheap,,,13/08/2026 09:13
 51c79106-28e4-41d6-9c82-99b336147001,endermic.guru,available,2.98,54.98,medium,low,8,namecheap,,,17/08/2026 00:56
 b68859bf-146c-496b-839c-f00db2187e5e,ferguson.guru,available,2.98,54.98,high,low,8,namecheap,,,25/09/2026 17:55
@@ -144,7 +145,7 @@ a7f9bfcd-77f0-43b2-8f81-3f08c983a36c,desirous.guru,available,2.98,54.98,medium,l
 a26904a5-ad09-489c-8744-82060b44db7e,awning.guru,available,4.49,42.99,high,low,6,namesilo,,,21/09/2026 10:12
 68b5ab5f-0492-4381-9b1b-7a5285f65a4a,uptill.guru,available,2.98,54.98,low,low,7,namecheap,,,16/09/2026 20:20
 698e2420-f60b-42d2-98f4-24fc9eea8c27,nuthin.guru,available,3.99,,medium,low,6,name.com,,,
-b52ae77c-ae4d-4617-aee1-e58750082c54,obsolete.guru,available,2.98,54.98,high,low,8,namecheap,,,14/08/2026 13:30
+b52ae77c-ae4d-4617-aee1-e58750082c54,obsolete.guru,available,2.98,54.98,medium,low,8,namecheap,,,14/08/2026 13:30
 7e52db7f-654c-4c24-87bf-fc1ef90742ff,rabbinic.guru,available,2.98,54.98,medium,low,8,namecheap,,,09/09/2026 09:14
 b1e56f83-012b-4fc8-afbe-16d73a058349,cacomistle.guru,available,4.49,42.99,medium,low,10,namesilo,,,22/09/2026 12:02
 44d32c72-686f-427e-9e9c-199052c0d8b2,apogamy.guru,available,2.98,54.98,medium,low,7,namecheap,,,19/09/2026 18:27
@@ -170,26 +171,28 @@ daf5642f-5f17-4158-90e9-51767d756e6e,cosmonaut.guru,available,2.98,54.98,high,lo
 f26e6e1a-1fdb-4d5e-ae98-f68433c315a3,pyramid.guru,resell,,,high,low,7,Dynadot Inc,19/01/2026 17:00,19/01/2027 17:00,26/09/2026 08:26
 8138c213-9cc6-4566-a819-302352223688,banning.guru,available,2.98,54.98,medium,low,7,namecheap,,,18/08/2026 11:11
 2ef10d4d-9e3f-41a0-b392-fa5e39ea5588,eternal.guru,resell,,,high,medium,7,"Sav.com, LLC",22/08/2025 22:11,22/08/2027 22:11,27/09/2026 06:58
-b896ef45-e30a-45a4-935c-702999826bb3,crybaby.guru,available,4.49,42.99,high,low,7,namesilo,,,23/09/2026 06:47
+b896ef45-e30a-45a4-935c-702999826bb3,crybaby.guru,available,4.49,42.99,medium,low,7,namesilo,,,23/09/2026 06:47
 ca361e72-912d-4b35-8f59-c422ba0e40f9,function.guru,available,3.99,,high,low,8,name.com,,,
 18ef3123-0237-46a2-acff-9c57ac0b703d,nicolas.guru,available,4.49,42.99,high,low,7,namesilo,,,25/09/2026 13:18
 dac08316-f4bf-4938-8d57-31644c3371a8,calculated.guru,available,2.98,54.98,high,low,10,namecheap,,,11/08/2026 13:58
 bad718de-a894-45be-a463-d59c7642cd76,papal.guru,available,2.98,54.98,medium,low,5,namecheap,,,06/08/2026 04:09
 03d22473-7b5f-49b6-b890-101fa774c2b1,adenovirus.guru,available,4.49,42.99,medium,low,10,namesilo,,,17/09/2026 07:41
 516837c2-92db-46a5-b950-321eb4826c9d,whippy.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/09/2026 11:26
-4558d8a6-4d1c-4641-97f5-0b769aff547b,rambling.guru,available,2.98,54.98,high,low,8,namecheap,,,17/08/2026 16:41
+4558d8a6-4d1c-4641-97f5-0b769aff547b,rambling.guru,available,2.98,54.98,medium,low,8,namecheap,,,17/08/2026 16:41
 620e8ceb-e697-44ea-b336-1f7d39907de4,niggle.guru,available,4.49,42.99,medium,low,6,namesilo,,,23/09/2026 13:17
 5b8637c1-c6da-43b9-9d7f-7397d9d13311,ankara.guru,premium,118.8,118.8,high,low,6,namesilo,,,19/09/2026 07:05
 20784f23-e7a6-414c-8907-15e236d0e90f,combustive.guru,available,2.98,54.98,low,low,10,namecheap,,,12/08/2026 18:42
 32ae7a59-8f1a-4997-8735-f3a38960a1b8,merit.guru,resell,,,high,low,5,"Name.com, Inc.",31/12/2025 06:52,31/12/2026 06:52,26/09/2026 07:31
 f06a3d6d-b8b0-4e64-a1c0-c3fa75923bea,rampantly.guru,available,2.98,54.98,medium,low,9,namecheap,,,13/09/2026 11:58
-0cca21c7-9d53-47d9-942f-452559cd9049,avocation.guru,available,4.49,42.99,high,low,9,namesilo,,,21/09/2026 09:37
+0cca21c7-9d53-47d9-942f-452559cd9049,avocation.guru,available,4.49,42.99,medium,low,9,namesilo,,,21/09/2026 09:37
+b3509935-42ad-4612-b24c-d3315f912cdb,melody.guru,resell,,,high,low,6,,,,28/09/2026 02:24
 7031eb4e-8f90-480f-9685-21e6243c8ed4,ament.guru,available,2.98,54.98,medium,low,5,namecheap,,,18/09/2026 18:57
 d7e837c0-1885-4677-8f4f-cde31dda7624,guadalupe.guru,available,2.98,54.98,medium,low,9,namecheap,,,25/09/2026 15:36
 848e65db-8233-47bd-82e7-319f24a7b417,volute.guru,available,2.98,54.98,medium,low,6,namecheap,,,12/08/2026 16:14
 6bdbac26-8c13-48ad-ad87-47102872f8c1,backless.guru,available,2.98,54.98,medium,low,8,namecheap,,,08/08/2026 05:48
 51a96b48-ea72-446b-a29b-319685b83181,prominent.guru,available,4.49,42.99,high,low,9,namesilo,,,27/09/2026 07:23
 70f5316a-12a2-40ce-955a-142412916b08,distorted.guru,available,2.98,54.98,medium,low,9,namecheap,,,13/08/2026 23:39
+5400eb97-ec32-4b27-91e5-dfda13d82762,samson.guru,available,2.27,34.36,high,low,6,spaceship,,,28/09/2026 01:08
 6fcb824b-7cf1-47cf-a66c-10897be0765b,greyed.guru,available,2.98,54.98,medium,low,6,namecheap,,,20/08/2026 20:04
 503270aa-bc26-4788-b6b3-979d7c52a444,atonement.guru,available,4.49,42.99,high,low,9,namesilo,,,21/09/2026 00:28
 85d218eb-1110-47da-9aab-dc1d02435ec4,baldwin.guru,available,2.98,54.98,high,low,7,namecheap,,,16/09/2026 12:19
@@ -213,7 +216,7 @@ f1dff3bb-10bf-4859-8c93-40113ff35b40,letting.guru,available,2.98,54.98,high,low,
 929f00c8-56ce-4841-b7bf-8a78fc77852b,disordered.guru,available,2.98,54.98,medium,low,10,namecheap,,,14/08/2026 11:18
 1a8d7315-c56c-4a7c-83f5-1a7af311b5ab,pain.guru,resell,,,high,low,4,"Sav.com, LLC - 20",18/09/2025 17:00,18/09/2027 17:00,26/09/2026 07:59
 1f51fb48-7391-4c9a-957a-8edec09fff10,rupicolous.guru,available,2.98,54.98,medium,low,10,namecheap,,,09/09/2026 19:41
-bade8497-66f1-4192-b931-ff698f72db7f,norwich.guru,available,2.98,54.98,high,low,7,namecheap,,,25/09/2026 14:43
+bade8497-66f1-4192-b931-ff698f72db7f,norwich.guru,available,2.98,54.98,medium,low,7,namecheap,,,25/09/2026 14:43
 8cd2466b-f4ea-4850-850d-9a09a71e59aa,manifestly.guru,available,2.98,54.98,medium,low,10,namecheap,,,08/09/2026 20:23
 53810256-4efa-4cd5-be0d-e59617aac478,ancylus.guru,available,2.98,54.98,medium,low,7,namecheap,,,19/09/2026 03:54
 b508e9ec-0e38-45f7-9111-ca86ce2b13eb,sink.guru,available,3.99,,high,low,4,name.com,,,
@@ -223,14 +226,14 @@ a1ece0eb-1733-4725-bf03-feb23e3e3c58,bmr.guru,available,4.49,42.99,high,low,3,na
 d250164e-c273-4a49-8d2e-8de9daee9757,kissing.guru,available,2.98,54.98,high,low,7,namecheap,,,24/09/2026 12:56
 68e5b38a-5feb-4dfd-b946-2efca405b250,abed.guru,available,2.98,54.98,medium,low,4,namecheap,,,13/09/2026 16:13
 738ca4a8-0499-468d-a4bd-88a8fb711e8b,slang.guru,available,2.98,54.98,high,low,5,namecheap,,,12/08/2026 15:12
-e9178531-a849-4a42-99e7-038494d0b140,seeded.guru,available,2.98,54.98,high,low,6,namecheap,,,10/09/2026 01:43
+e9178531-a849-4a42-99e7-038494d0b140,seeded.guru,available,2.98,54.98,medium,low,6,namecheap,,,10/09/2026 01:43
 ba228832-e06f-40d5-bd8f-b0d672010e40,dominance.guru,available,3.99,,high,low,9,name.com,,,
 354d5360-62a8-450d-a62f-1a013c692377,lakh.guru,available,2.98,54.98,medium,low,4,namecheap,,,21/08/2026 15:36
 cac072d7-e214-4928-a3f0-3932a6408590,convenient.guru,available,3.99,54.99,high,low,10,name.com,,,23/09/2026 15:48
 1fbf7e29-d404-4343-b537-9db19e09a7b0,resolvent.guru,available,2.98,54.98,medium,low,9,namecheap,,,10/09/2026 13:54
 0cac3ece-14bb-42af-b351-ee5f788a5243,gothic.guru,available,2.98,54.98,high,low,6,namecheap,,,20/08/2026 17:17
 2c49426a-0765-4afe-9515-0ffbba5a5c19,respite.guru,available,4.49,42.99,high,low,7,namesilo,,,16/09/2026 14:06
-41607c27-5438-44c2-9e02-8bad903b9fbd,paton.guru,available,4.49,42.99,high,low,5,namesilo,,,18/09/2026 01:46
+41607c27-5438-44c2-9e02-8bad903b9fbd,paton.guru,available,4.49,42.99,medium,low,5,namesilo,,,18/09/2026 01:46
 f3f399c5-f961-4b79-8781-37da18fb8e6b,bakunin.guru,available,2.98,54.98,medium,low,7,namecheap,,,21/09/2026 20:26
 e6f8e729-2c8d-41af-b57c-0f386b8f9b41,mills.guru,available,3.99,,high,low,5,name.com,,,
 c9f2088f-976e-4034-9df1-073283588474,winkle.guru,available,2.98,54.98,medium,low,6,namecheap,,,18/08/2026 06:48
@@ -257,7 +260,7 @@ b21a4dd2-6157-4245-925b-c9d23ba6f6f1,molded.guru,available,2.98,54.98,high,low,6
 afc583ce-8151-4796-9244-892af0ed5423,phocine.guru,available,2.98,54.98,medium,low,7,namecheap,,,08/09/2026 18:58
 e1003d15-abea-4c17-831c-38018779b9b3,elects.guru,available,4.49,42.99,medium,low,6,namesilo,,,21/09/2026 04:31
 aa2da2f7-fcd5-4241-8c85-943e78eb1704,unobvious.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/09/2026 16:07
-c00a05e5-a8f9-47da-afde-7cf455a40ee1,barman.guru,available,4.49,42.99,high,low,6,namesilo,,,22/09/2026 06:19
+c00a05e5-a8f9-47da-afde-7cf455a40ee1,barman.guru,available,4.49,42.99,medium,low,6,namesilo,,,22/09/2026 06:19
 49c4d569-9fe6-49a9-8442-a63e4808c183,arachnoid.guru,available,2.98,54.98,medium,low,9,namecheap,,,06/08/2026 11:41
 9aa8334f-2373-4308-8ce5-96a3a97951b2,unsolved.guru,available,2.98,54.98,medium,low,8,namecheap,,,12/09/2026 18:23
 86070f02-5735-4466-87c8-a83029681846,loyalty.guru,resell,,,high,low,7,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40,26/09/2026 07:20
@@ -302,14 +305,14 @@ f431f702-021a-4569-b0ea-8b6a60f21057,mould.guru,available,4.49,42.99,medium,low,
 4f5fd059-51e7-4fc0-8e30-3091bc5cff91,aerialist.guru,available,2.98,54.98,medium,low,9,namecheap,,,17/09/2026 12:50
 17e18233-0029-4cf8-971a-4bb82995d8da,laborious.guru,available,2.98,54.98,medium,low,9,namecheap,,,06/08/2026 17:00
 041a5737-f651-44dd-ab52-4647614b5c44,signed.guru,available,2.98,54.98,high,low,6,namecheap,,,18/08/2026 22:58
-b6cf7211-bfae-47a9-929d-f8c40d3ef6b3,wounded.guru,available,4.49,42.99,high,low,7,namesilo,,,25/09/2026 06:51
+b6cf7211-bfae-47a9-929d-f8c40d3ef6b3,wounded.guru,available,4.49,42.99,medium,low,7,namesilo,,,25/09/2026 06:51
 4fef5505-747f-4c33-9dca-6e76b718a10c,bearings.guru,available,4.49,42.99,medium,low,8,namesilo,,,20/09/2026 03:51
-7040dc45-5676-4d95-92a3-5a82fff228be,hazy.guru,available,2.98,54.98,high,low,4,namecheap,,,10/08/2026 16:22
+7040dc45-5676-4d95-92a3-5a82fff228be,hazy.guru,available,2.98,54.98,medium,low,4,namecheap,,,10/08/2026 16:22
 74ea0443-98d6-4e55-9924-37169f34a8ce,curie.guru,available,2.98,54.98,high,low,5,namecheap,,,12/08/2026 08:00
 c6b07497-82f0-46a9-87c0-a17cecc7a298,plowed.guru,available,2.98,54.98,medium,low,6,namecheap,,,08/09/2026 21:24
 cdf4398f-2bcd-42bc-b1ab-730a250ef615,unlaced.guru,available,2.98,54.98,medium,low,7,namecheap,,,12/09/2026 14:37
 e9e7618a-ebbe-482a-b1e1-e4b7717adc6a,oneself.guru,available,3.99,,high,low,7,name.com,,,
-f0131602-3e8b-4f59-9911-7a8bd827e89c,clx.guru,available,2.98,54.98,high,low,3,namecheap,,,
+f0131602-3e8b-4f59-9911-7a8bd827e89c,clx.guru,available,2.98,54.98,medium,low,3,namecheap,,,
 1ddcef6c-0e37-4ee3-9344-41d59a2a27b7,noncurrent.guru,available,2.98,54.98,medium,low,10,namecheap,,,03/09/2026 19:01
 8a8052ff-20c8-44af-b809-1a665a27542a,ailing.guru,available,2.98,54.98,high,low,6,namecheap,,,
 ba35b918-4700-4402-8584-b2342707203c,zhou.guru,available,4.49,42.99,high,low,4,namesilo,,,25/09/2026 22:14
@@ -327,7 +330,7 @@ f3768480-07c1-48ff-9aea-3142897d1b53,excessive.guru,available,2.98,54.98,medium,
 2c2025c6-6ea9-40f5-94b9-c9ac89343cea,plan.guru,resell,,,high,medium,4,"Sav.com, LLC - 43",07/09/2024 17:00,07/09/2027 17:00,26/09/2026 08:11
 52fdb429-320c-41ad-b9f6-325647e0e32f,alonso.guru,available,2.98,54.98,high,low,6,namecheap,,,18/09/2026 07:29
 e72b335b-5c7d-4816-b29f-2002f1572d42,cantabile.guru,available,2.98,54.98,medium,low,9,namecheap,,,11/08/2026 17:38
-41e07923-50e3-4125-b73e-5564c505f782,climactic.guru,available,2.98,54.98,high,low,9,namecheap,,,12/08/2026 10:55
+41e07923-50e3-4125-b73e-5564c505f782,climactic.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/08/2026 10:55
 441acfdc-883a-4505-b062-9b16c0441ad7,mutter.guru,available,2.98,54.98,high,low,6,namecheap,,,03/09/2026 11:12
 d95aa846-2d33-4da6-85e5-5707cc41fbee,monoatomic.guru,available,2.98,54.98,medium,low,10,namecheap,,,25/08/2026 04:18
 54e3af5f-2099-414b-b05c-5ae65af3fcb5,slippy.guru,available,2.98,54.98,medium,low,6,namecheap,,,10/09/2026 11:03
@@ -336,6 +339,7 @@ ff57c569-495d-4fab-8e4e-217aa81c9365,pneumatic.guru,available,2.98,54.98,high,lo
 82049f6a-4ebf-4820-81f5-05bef2a1d07d,berth.guru,available,4.49,42.99,high,low,5,namesilo,,,23/09/2026 10:13
 594abc1a-b4f0-4686-a5dd-4f487089fcd3,grate.guru,available,2.98,54.98,high,low,5,namecheap,,,20/08/2026 18:33
 57b76bc3-0562-47c1-809b-9ff912716729,quiver.guru,available,2.98,54.98,high,low,6,namecheap,,,11/09/2026 19:13
+4121dfb5-4f65-44c0-96a5-59ad4999bfe0,winthrop.guru,available,4.49,42.99,high,low,8,namesilo,,,27/09/2026 19:50
 1d3fff47-bc17-4f5c-a4b2-d302e72203f1,castor.guru,available,4.49,42.99,medium,low,6,namesilo,,,18/09/2026 13:36
 157c3db8-b8a0-4e5f-b4d4-10f7c12d2871,hypnagogic.guru,available,2.98,54.98,medium,low,10,namecheap,,,21/08/2026 17:03
 6ba96434-db4b-4bf9-b03d-d68fa01582b1,holotype.guru,available,4.49,42.99,high,low,8,namesilo,,,25/09/2026 23:08
@@ -348,13 +352,13 @@ e00fb761-056c-43aa-a9ca-342f2d9cdc19,vaccination.guru,available,3.99,,high,low,1
 3184f640-31ff-4779-a9f5-42f738a07348,charcoal.guru,available,2.98,54.98,high,low,8,namecheap,,,12/08/2026 02:24
 8f2a7a74-1cb9-4d2b-bb8d-92171370caae,torrential.guru,available,2.98,54.98,medium,low,10,namecheap,,,11/09/2026 17:57
 98ffa164-478c-457b-bdbb-7b9f9b8f4227,roarer.guru,available,2.98,54.98,medium,low,6,namecheap,,,22/09/2026 16:57
-97b9ae95-bd43-44a2-a2e3-d1eb323a1466,abject.guru,available,2.98,54.98,high,low,6,namecheap,,,
+97b9ae95-bd43-44a2-a2e3-d1eb323a1466,abject.guru,available,2.98,54.98,medium,low,6,namecheap,,,
 082ff052-2892-4aa2-90d8-c431a3c54866,hypo.guru,available,2.98,54.98,high,low,4,namecheap,,,21/08/2026 17:15
 47edd413-553e-43a1-89eb-0287f66c723b,millennium.guru,available,2.98,54.98,high,low,10,namecheap,,,24/08/2026 23:15
 d9ea85f0-3b8e-4fe1-bb20-ecf72646b7af,proscribed.guru,available,2.98,54.98,medium,low,10,namecheap,,,18/08/2026 11:01
 590ce3d2-6657-43c1-9f55-730ec780c03e,teasing.guru,available,3.99,54.99,high,low,7,name.com,,,22/09/2026 05:24
 2092a0a6-6a57-45f2-b8c6-6f82105a9b0b,jew.guru,premium,118.8,118.8,high,low,3,namesilo,,,25/09/2026 23:17
-aba40006-00a4-4154-84fc-c027eaf5fa30,hostile.guru,available,4.49,42.99,high,low,7,namesilo,,,25/09/2026 00:05
+aba40006-00a4-4154-84fc-c027eaf5fa30,hostile.guru,available,4.49,42.99,medium,low,7,namesilo,,,25/09/2026 00:05
 fc143278-7929-4871-b772-723bff32dda1,aside.guru,available,3.99,,high,low,5,name.com,,,
 6e80a140-e4c6-4bb2-883b-ea8b1d5aeaaf,frenzied.guru,available,2.98,54.98,medium,low,8,namecheap,,,18/08/2026 14:21
 c7341018-d68b-426d-a752-c589b0b6e566,screwing.guru,available,2.98,54.98,medium,low,8,namecheap,,,18/08/2026 17:28
@@ -366,7 +370,7 @@ eb5e74f5-d719-4820-85ba-baa2c4075f57,occurring.guru,available,3.99,,high,low,9,n
 41bb2996-9f8d-4124-a9e1-44a9ea5c5def,jade.guru,resell,,,high,low,4,Dynadot Inc,21/09/2026 17:00,21/09/2027 17:00,26/09/2026 06:58
 8505d7a7-b137-4e5b-bb01-1f44545c1a00,neckless.guru,available,2.98,54.98,medium,low,8,namecheap,,,03/09/2026 14:41
 1bab3c43-29f0-4748-9617-c98a1a9dc569,naacp.guru,available,4.49,42.99,medium,low,5,namesilo,,,25/09/2026 13:20
-b4c5ab7b-7e1d-45d6-a39c-5f977d7300d2,tramway.guru,available,4.49,42.99,high,low,7,namesilo,,,17/09/2026 12:48
+b4c5ab7b-7e1d-45d6-a39c-5f977d7300d2,tramway.guru,available,4.49,42.99,medium,low,7,namesilo,,,17/09/2026 12:48
 b8239b7e-a8e1-4bd4-8cb4-23d7e9cd038b,laminar.guru,available,2.98,54.98,high,low,7,namecheap,,,22/08/2026 19:07
 f648c61a-f70e-4678-be2f-6f9aeef2b2dc,pies.guru,available,3.99,,medium,low,4,name.com,,,
 eaa35ae1-6839-428b-94b1-9c554df6bc30,flee.guru,available,3.99,,high,low,4,name.com,,,
@@ -378,7 +382,7 @@ c47d604e-181d-4e13-adff-8e69c4e7ad5f,gloam.guru,available,2.98,54.98,medium,low,
 6740b683-5db5-46c3-a660-dddbb2c7de97,access.guru,resell,,,high,medium,6,Dynadot Inc,09/05/2026 17:00,09/05/2027 17:00,26/09/2026 01:19
 01a954ba-2096-4f5a-b64f-e233dcc290d1,extravert.guru,available,2.98,54.98,high,low,9,namecheap,,,17/08/2026 19:28
 01715d68-0c58-417d-b1d9-1fc97ce9d810,raiding.guru,available,2.98,54.98,medium,low,7,namecheap,,,24/08/2026 15:45
-93e81d2b-fc68-48a7-8e0c-5bf35b028dc5,amaranthus.guru,available,4.49,42.99,high,low,10,namesilo,,,18/09/2026 15:51
+93e81d2b-fc68-48a7-8e0c-5bf35b028dc5,amaranthus.guru,available,4.49,42.99,medium,low,10,namesilo,,,18/09/2026 15:51
 81c16837-75a5-4b58-b82d-d792cf99132d,annona.guru,available,2.98,54.98,medium,low,6,namecheap,,,19/09/2026 10:30
 f716201e-eb92-4d3b-b253-57c29ecb683b,leaf.guru,resell,,,high,low,4,Dynadot Inc,25/08/2026 17:00,25/08/2027 17:00,26/09/2026 07:10
 a85fcf73-a1b3-4c4e-a3cf-47ff329d43d0,eid.guru,available,3.99,,high,low,3,name.com,,,
@@ -403,6 +407,7 @@ bbf23aba-44ed-4665-975a-5d85fe3c70e2,digitizer.guru,available,4.49,42.99,high,lo
 05354879-757c-4813-9af7-214ccf819a6d,sunburst.guru,available,,,high,low,8,,,,
 a5e2881d-47c5-4e81-96cd-d713445f7c45,limits.guru,available,4.49,42.99,medium,low,6,namesilo,,,18/09/2026 15:06
 aa3e1823-fe35-414b-b601-db5e0cce1bc2,unthankful.guru,available,2.98,54.98,medium,low,10,namecheap,,,11/09/2026 12:29
+72a641f5-7efd-44a8-8ef6-90de2f809a5e,iris.guru,resell,,,high,medium,4,,,,28/09/2026 01:54
 b8c5f1ba-410c-4df3-9298-2bda86e3d97d,genially.guru,available,2.98,54.98,medium,low,8,namecheap,,,13/09/2026 17:52
 8f99e130-80e8-4be2-92a4-d30a76a89c14,acinonyx.guru,available,4.49,42.99,medium,low,8,namesilo,,,17/09/2026 01:31
 3909c930-2056-4ae3-a2f9-9a267a36561c,jeremiah.guru,resell,,,high,low,8,"GoDaddy.com, LLC",06/02/2014 23:58,06/02/2027 23:58,26/09/2026 06:59
@@ -410,6 +415,7 @@ a6882eaa-e5f9-426c-93f7-895fa1191b98,differences.guru,available,4.49,42.99,mediu
 d277ec43-1f14-45a3-a0b5-dc4cee53fd6c,boots.guru,resell,,,high,low,5,"Sav.com, LLC - 49",10/12/2025 15:16,10/12/2026 15:16,26/09/2026 04:33
 21fb5a47-1cd2-42ae-8409-931b0dd42e24,item.guru,available,3.99,,high,low,4,name.com,,,
 f34b5a7c-a5d2-48c4-88b4-2714457cb727,trillionaire.guru,available,3.99,,high,low,12,name.com,,,
+81bc2f15-cac0-448d-969b-c2f7f1e5fc01,buchanan.guru,available,33.2,33.2,high,low,8,cloudflare,,,28/09/2026 01:11
 fc2c9b02-0f25-4ddb-8d4c-f0858f514461,desecrated.guru,available,2.98,54.98,medium,low,10,namecheap,,,14/08/2026 03:18
 b83d1ca8-df0b-4b08-b644-462efded3c8b,moderately.guru,available,4.49,42.99,medium,low,10,namesilo,,,25/09/2026 12:00
 8301da0a-5e8d-4e13-a7d2-567c66d28118,thalassic.guru,available,2.98,54.98,medium,low,9,namecheap,,,11/09/2026 12:22
@@ -417,7 +423,7 @@ e6b62a23-9dca-413f-9d22-8d81e3a28f6d,treasured.guru,available,2.98,54.98,high,lo
 8a063261-e754-4388-ac6c-06a0a9701bb1,petallike.guru,available,2.98,54.98,medium,low,9,namecheap,,,08/09/2026 18:13
 e4985123-f53d-4797-bfdc-0df36bf8c204,nonaligned.guru,available,2.98,54.98,medium,low,10,namecheap,,,03/09/2026 18:44
 1663a642-aef6-4afe-9c59-5c50d616c6eb,algolagnia.guru,available,4.49,42.99,medium,low,10,namesilo,,,18/09/2026 07:07
-a505e7a1-4246-4305-80e9-56f57e64e0cb,wellesley.guru,available,2.98,54.98,high,low,9,namecheap,,,27/09/2026 08:52
+a505e7a1-4246-4305-80e9-56f57e64e0cb,wellesley.guru,available,2.98,54.98,medium,low,9,namecheap,,,27/09/2026 08:52
 cbe7691f-9d1f-43c5-a12e-b7c22186ddde,unstoppable.guru,available,,,high,low,11,,,,
 fe398be9-751a-4765-88e5-2d2050664f9b,lid.guru,premium,242,242,high,low,3,namesilo,,,24/09/2026 13:43
 d8a828af-e5c1-4f9c-a612-27cdec65fbae,rein.guru,available,3.99,,high,low,4,name.com,,,
@@ -426,11 +432,12 @@ fc7ddc61-2bc5-4618-b694-66f506815c5c,tenderness.guru,available,4.49,42.99,high,l
 4dd3b9f6-5d35-49a1-b6f1-6528159eb99c,melodious.guru,available,2.98,54.98,high,low,9,namecheap,,,24/08/2026 19:38
 4163be5d-d829-4c3a-af10-f14f9e99166e,brushing.guru,available,3.99,,high,low,8,name.com,,,
 f047080d-4f80-4698-b530-a6062c22a3e9,baryon.guru,available,2.98,54.98,medium,low,6,namecheap,,,22/09/2026 09:41
+9738e6e1-93f0-43ba-bf64-19b230ab446f,cooperate.guru,available,4.49,42.99,high,low,9,namesilo,,,27/09/2026 16:33
 ed515845-48f4-45ef-b861-180352a5f6ca,frunze.guru,available,2.98,54.98,medium,low,6,namecheap,,,23/09/2026 21:44
 5f831cb0-9442-4751-aeb2-fb5d4c020c74,unequalled.guru,available,2.98,54.98,high,low,10,namecheap,,,12/09/2026 09:11
 a19e430a-c7cc-47ab-a364-69f33a07b19e,clovers.guru,available,4.49,42.99,medium,low,7,namesilo,,,21/09/2026 06:52
 97b5b7ce-feec-44b3-ad33-292cf6e3fe7e,probative.guru,available,2.98,54.98,medium,low,9,namecheap,,,09/09/2026 02:27
-fdc8f75b-e609-4e6f-af1a-e746110ac251,backbend.guru,available,4.49,42.99,high,low,8,namesilo,,,21/09/2026 15:01
+fdc8f75b-e609-4e6f-af1a-e746110ac251,backbend.guru,available,4.49,42.99,medium,low,8,namesilo,,,21/09/2026 15:01
 7b298ce6-adab-4c1a-a4f6-8039c6e3960a,nun.guru,available,3.99,,high,low,3,name.com,,,
 7b0ed92d-2735-4cb1-9ca6-8c5b535044a6,televised.guru,available,4.49,42.99,high,low,9,namesilo,,,21/09/2026 05:39
 1693fcd5-3851-4954-b228-c5139eb968af,rear.guru,available,2.98,54.98,high,low,4,namecheap,,,22/09/2026 19:06
@@ -438,6 +445,7 @@ fdc8f75b-e609-4e6f-af1a-e746110ac251,backbend.guru,available,4.49,42.99,high,low
 4a7e1223-a170-4467-bee2-aa3c4ea56926,anomie.guru,available,4.49,42.99,medium,low,6,namesilo,,,19/09/2026 11:29
 caac0d48-5961-4c2f-ae62-7847395aa2e3,colorfast.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/08/2026 17:50
 50696774-08e4-45d3-8297-83f797476f59,jim.guru,premium,242,242,high,low,3,namesilo,,,
+d922330d-189f-4553-a75c-828f01baeedc,confidential.guru,available,4.49,42.99,high,low,12,namesilo,,,27/09/2026 17:23
 cf2c70e8-3843-460b-bbda-b0ad75f16471,algerie.guru,available,4.49,42.99,high,low,7,namesilo,,,18/09/2026 06:58
 40dd14ff-37d7-4350-a019-a24d96758c44,starchy.guru,available,2.98,54.98,medium,low,7,namecheap,,,11/08/2026 07:29
 94f57e23-fd86-4db0-a958-f1c959744bd2,normality.guru,available,3.99,,high,low,9,name.com,,,
@@ -498,7 +506,7 @@ e1ae0b9c-c600-4899-9db3-76dc30e392d2,balas.guru,available,2.98,54.98,medium,low,
 d00471c3-a328-477d-bab1-608319871942,broke.guru,available,4.49,42.99,high,low,5,namesilo,,,23/09/2026 09:49
 d2064ac2-039a-48fd-8303-ae72c065a47f,commodity.guru,available,3.99,,high,low,9,name.com,,,
 dea00681-a6c9-439d-b763-c1b681a69548,burping.guru,available,4.49,42.99,medium,low,7,namesilo,,,23/09/2026 04:38
-65de9e45-e60d-4109-ad75-37023a2cca49,landscaped.guru,available,2.98,54.98,high,low,10,namecheap,,,22/08/2026 19:30
+65de9e45-e60d-4109-ad75-37023a2cca49,landscaped.guru,available,2.98,54.98,medium,low,10,namecheap,,,22/08/2026 19:30
 601b9308-7440-45af-9a4a-eac6da7f4545,dot.guru,premium,118.8,118.8,high,medium,3,namesilo,,,19/09/2026 16:13
 e69aafc6-a64e-4863-a2a3-149a46ca39f0,rife.guru,available,2.98,54.98,medium,low,4,namecheap,,,04/09/2026 20:07
 19801369-b73a-4334-b420-566b91819edc,bhaga.guru,available,4.49,42.99,medium,low,5,namesilo,,,23/09/2026 12:29
@@ -506,11 +514,11 @@ ec59681c-1800-410c-96b7-ff6c12096f4a,germs.guru,available,4.49,42.99,low,low,5,n
 1be7a825-ec5f-48c3-af50-df413c405e7a,appellant.guru,available,2.98,54.98,medium,low,9,namecheap,,,06/08/2026 06:23
 5198b6e7-bfbf-4fa1-97a3-d29bcaf88bb0,bob.guru,premium,118.8,118.8,high,medium,3,namesilo,,,22/09/2026 23:31
 e682cbd7-0134-4bf6-b2c7-42fae30516f2,newtonian.guru,available,2.98,54.98,medium,low,9,namecheap,,,03/09/2026 16:55
-c04b442d-326d-4cc0-ade5-1b9e46c61c64,torture.guru,available,2.98,54.98,high,low,7,namecheap,,,11/09/2026 18:03
+c04b442d-326d-4cc0-ade5-1b9e46c61c64,torture.guru,available,2.98,54.98,medium,low,7,namecheap,,,11/09/2026 18:03
 0b58032d-d80f-4ec8-8319-66fb9d8db13c,deliberate.guru,available,2.98,54.98,high,low,10,namecheap,,,11/08/2026 13:56
 5594d754-a1d5-4cce-b101-7d87e6d0ec82,leathery.guru,available,2.98,54.98,medium,low,8,namecheap,,,13/08/2026 01:13
 b21baca2-adc2-41cf-99c3-c1c414d97d19,coeliac.guru,available,2.98,54.98,medium,low,7,namecheap,,,12/08/2026 15:21
-3438a685-abad-47bf-99d0-7bf8a0e46300,globular.guru,available,2.98,54.98,high,low,8,namecheap,,,08/08/2026 10:06
+3438a685-abad-47bf-99d0-7bf8a0e46300,globular.guru,available,2.98,54.98,medium,low,8,namecheap,,,08/08/2026 10:06
 6e3e1d05-9a21-4d35-a094-9924a388f33c,proportions.guru,available,4.49,42.99,high,low,11,namesilo,,,17/09/2026 11:38
 455ec605-4942-4b9d-ba85-dfde56b8cf6f,airpost.guru,available,4.49,42.99,medium,low,7,namesilo,,,17/09/2026 23:19
 1c263ffa-dd52-4201-ac39-f2a99e261958,assayer.guru,available,2.98,54.98,medium,low,7,namecheap,,,20/09/2026 15:59
@@ -526,10 +534,11 @@ a60d0200-6a2a-4fe7-95d6-e124c0052d10,balderdash.guru,available,2.98,54.98,medium
 da7c7f1e-583b-4d99-8438-342ad04f0788,driving.guru,resell,,,high,low,7,"Sav.com, LLC - 2",28/06/2026 15:15,28/06/2027 15:15,26/09/2026 05:42
 02871c39-c4a4-47a0-88b2-f838ff6149fe,houghton.guru,available,4.49,42.99,medium,low,8,namesilo,,,25/09/2026 23:07
 b9b3fba7-3fb4-491d-acb4-b0da097457e3,mobile.guru,resell,5922.5,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",26/05/2026 15:15,26/05/2027 15:15,26/09/2026 07:35
+3c88c337-e330-41c1-b099-36e98a9c4f39,convicted.guru,available,33.2,33.2,medium,low,9,cloudflare,,,27/09/2026 23:23
 7ee7d870-6dca-4938-a573-58c31507a303,confirmed.guru,available,2.98,54.98,high,low,9,namecheap,,,23/09/2026 19:53
 3ce48164-26f6-4418-8ff5-b177443ccd7c,buffet.guru,available,4.49,42.99,high,low,6,namesilo,,,19/09/2026 17:05
 7d27e872-e275-493f-85b5-80700e86fb12,father.guru,premium,118.8,118.8,high,low,6,namesilo,,,
-faff9ee3-71e0-484a-bc7a-b9ba37e39c87,mixed.guru,available,4.49,42.99,high,low,5,namesilo,,,19/09/2026 12:23
+faff9ee3-71e0-484a-bc7a-b9ba37e39c87,mixed.guru,available,4.49,42.99,medium,low,5,namesilo,,,19/09/2026 12:23
 9fa972bd-94f3-4f5f-98ad-a148fe1c524c,moderne.guru,available,2.98,54.98,medium,low,7,namecheap,,,25/08/2026 03:00
 f81ba867-7f5d-4b19-af9e-274f4ed867aa,caracas.guru,available,3.99,,high,low,7,name.com,,,
 a4ab7779-2448-4d7f-91ed-ec97078fb17a,countable.guru,available,2.98,54.98,high,low,9,namecheap,,,13/08/2026 03:28
@@ -544,7 +553,7 @@ ef8e8651-c460-440a-a5d9-bd895061ac7f,issus.guru,available,4.49,42.99,medium,low,
 59b91491-af9b-43e1-a8f3-6de848c6a31f,arsenide.guru,available,4.49,42.99,medium,low,8,namesilo,,,20/09/2026 09:41
 34c9af4b-0b3f-4f31-bfd2-76e1325e9dcd,phonemic.guru,available,2.98,54.98,medium,low,8,namecheap,,,08/09/2026 19:02
 c668472c-1f9a-4f33-987f-1deaccb53615,porkfish.guru,available,4.49,42.99,medium,low,8,namesilo,,,19/09/2026 09:38
-b281f094-0237-4e4d-8cc3-75a72544fc4e,aftershock.guru,available,4.49,42.99,high,low,10,namesilo,,,17/09/2026 15:51
+b281f094-0237-4e4d-8cc3-75a72544fc4e,aftershock.guru,available,4.49,42.99,medium,low,10,namesilo,,,17/09/2026 15:51
 0b827e03-d682-4e2b-b40f-1017e1677795,gladsome.guru,available,2.98,54.98,high,low,8,namecheap,,,19/08/2026 00:13
 ee290399-16d1-48a1-9613-68baa2360665,dissimilar.guru,available,2.98,54.98,medium,low,10,namecheap,,,14/08/2026 12:48
 8b124d50-b3c0-49f7-bba3-1141fd4aac22,horrifying.guru,available,2.98,54.98,medium,low,10,namecheap,,,18/08/2026 15:42
@@ -558,7 +567,7 @@ bb303e88-b203-4f5d-a5b0-11842548001d,uut.guru,available,4.49,42.99,medium,low,3,
 749d166e-e3d6-4292-b0b6-2c8c5bd649d2,analecta.guru,available,4.49,42.99,medium,low,8,namesilo,,,19/09/2026 01:47
 150f99b4-4157-4c56-9458-f2ef95c4e1de,buttony.guru,available,2.98,54.98,medium,low,7,namecheap,,,09/08/2026 03:34
 2fbc2b88-6211-4099-8cae-478d8e66d847,mediate.guru,available,2.98,54.98,high,low,7,namecheap,,,21/08/2026 23:37
-0f9dc564-f8ac-4330-a161-5668251b6a87,naif.guru,available,2.98,54.98,high,low,4,namecheap,,,03/09/2026 12:52
+0f9dc564-f8ac-4330-a161-5668251b6a87,naif.guru,available,2.98,54.98,medium,low,4,namecheap,,,03/09/2026 12:52
 33593b23-74d2-4af2-9478-1f9adc0d192a,alleged.guru,available,4.49,42.99,high,low,7,namesilo,,,22/09/2026 01:19
 99b53de0-abd1-418e-8ecb-066943543c00,adiantum.guru,available,4.49,42.99,medium,low,8,namesilo,,,17/09/2026 08:05
 b5d0f230-e29f-45ee-b33d-11268d0b9c00,athletic.guru,available,4.49,42.99,high,low,8,namesilo,,,21/09/2026 16:12
@@ -581,13 +590,14 @@ f2935a52-c3cf-41b9-a887-b75c351b1db8,gumptious.guru,available,2.98,54.98,medium,
 d8053d35-dd74-4040-9ac3-f4de620a19fc,iraqi.guru,available,2.98,54.98,high,low,5,namecheap,,,22/08/2026 09:35
 7299c103-6d71-45e1-a61d-01e5ede7db5d,barth.guru,available,4.49,42.99,medium,low,5,namesilo,,,22/09/2026 09:03
 915740ef-68a0-413d-8bd4-b3efa98cf54c,roomily.guru,available,2.98,54.98,medium,low,7,namecheap,,,16/09/2026 00:01
+6cdb0a12-ab5e-4e0f-964d-1c5630a28469,shrewsbury.guru,available,4.49,42.99,medium,low,10,namesilo,,,27/09/2026 19:32
 fb2a021b-2a19-4dce-821c-a42b98cc13d2,clipping.guru,available,4.49,42.99,high,low,8,namesilo,,,24/09/2026 15:47
 ea3d1d3c-8199-45a6-acbe-ddca47f94eb8,philanthropic.guru,available,3.99,,high,low,13,name.com,,,
 cee518a0-b1af-4487-b611-d0f1f085e911,alchemic.guru,available,2.98,54.98,medium,low,8,namecheap,,,
 7a90b522-ae1d-4059-9b10-e5b328b05375,balm.guru,available,4.49,42.99,high,low,4,namesilo,,,21/09/2026 23:35
 a4d1031b-4808-42cd-9af4-77562b8fa37c,congregational.guru,available,3.99,,medium,low,14,name.com,,,
 42824d1e-2401-47e7-948b-f12fb3f4b64b,algebra.guru,available,4.49,42.99,high,low,7,namesilo,,,18/09/2026 06:54
-2090a654-ce82-47d4-a354-c128b369ff0f,lii.guru,available,2.98,54.98,high,low,3,namecheap,,,
+2090a654-ce82-47d4-a354-c128b369ff0f,lii.guru,available,2.98,54.98,medium,low,3,namecheap,,,
 81132709-8dc7-460e-b6d1-fb44072d7697,nicole.guru,available,3.99,,high,low,6,name.com,,,
 9af5a0a2-f651-4301-acf8-988e6bba16a6,proximal.guru,available,2.98,54.98,high,low,8,namecheap,,,09/09/2026 04:44
 11d3a957-e6f8-43ae-8e6a-7e7c3905f441,khaki.guru,available,2.98,54.98,high,low,5,namecheap,,,22/08/2026 15:47
@@ -604,18 +614,19 @@ d8a52f3f-d325-4b58-a5c3-bdc12292f959,esteem.guru,available,3.99,,high,low,6,name
 bcc48fb5-d012-495f-920f-531b8df5e8f8,moonshine.guru,available,2.98,54.98,high,low,9,namecheap,,,10/08/2026 19:35
 e007d3ac-57be-4741-a350-877f231c92a9,murmured.guru,available,2.98,54.98,medium,low,8,namecheap,,,18/09/2026 02:23
 b09fd702-320d-4226-9509-5d5cd906ffa4,topnotch.guru,available,,,high,low,8,,,,
-57605d6d-2162-4cc5-b31c-786507a7ca56,pickings.guru,available,2.98,54.98,high,low,8,namecheap,,,11/09/2026 07:21
+57605d6d-2162-4cc5-b31c-786507a7ca56,pickings.guru,available,2.98,54.98,medium,low,8,namecheap,,,11/09/2026 07:21
 cd9e1e55-1d55-400c-a0ff-7d71eca2e27a,adige.guru,available,4.49,42.99,medium,low,5,namesilo,,,17/09/2026 08:16
 ca605640-38d5-41f6-b529-a528de20c5d4,adhesion.guru,available,2.98,54.98,high,low,8,namecheap,,,17/09/2026 07:59
 973191b2-6aa4-46ea-ba91-84614af60f0f,boethius.guru,available,4.49,42.99,medium,low,8,namesilo,,,19/09/2026 08:26
 f35ea6a4-87d0-424d-a24d-4b02b2e41d7b,energizer.guru,available,4.49,42.99,high,low,9,namesilo,,,19/09/2026 09:06
 44843d6b-5308-4a04-86cf-9999dbe15f86,palmate.guru,available,2.98,54.98,medium,low,7,namecheap,,,04/09/2026 23:55
 ba2600f2-f5a5-45c2-bdb0-522f48ff527b,mistaken.guru,available,2.98,54.98,medium,low,8,namecheap,,,25/08/2026 01:52
-beb1a271-8d3e-44b7-a48c-8058e08ac39a,thwart.guru,available,2.98,54.98,high,low,6,namecheap,,,09/09/2026 08:15
+beb1a271-8d3e-44b7-a48c-8058e08ac39a,thwart.guru,available,2.98,54.98,medium,low,6,namecheap,,,09/09/2026 08:15
 9cb7641e-e52a-4f1d-87df-199f576fa948,section.guru,available,2.98,54.98,high,low,7,namecheap,,,08/09/2026 06:07
 3924ae26-df76-435e-a737-4929c714acf5,overleaf.guru,available,2.98,54.98,medium,low,8,namecheap,,,15/09/2026 18:27
 8133a695-bf69-4a9c-89c4-96dea228783a,novice.guru,available,4.49,42.99,high,low,6,namesilo,,,23/09/2026 02:23
 37b5dfe1-21aa-4f42-b4b9-30cddde4b4c5,tamed.guru,available,2.98,54.98,high,low,5,namecheap,,,11/09/2026 07:46
+c760bee8-c1da-40a1-b58f-b893b602b8d8,insisted.guru,available,33.2,33.2,medium,low,8,cloudflare,,,27/09/2026 23:35
 d5a272f1-8679-4032-a41f-b688c6c9872e,madly.guru,available,2.98,54.98,medium,low,5,namecheap,,,14/09/2026 09:19
 9f227b26-39dd-4ee9-802b-ddec9fd0e867,arboretum.guru,available,4.49,42.99,medium,low,9,namesilo,,,20/09/2026 00:49
 48bdea05-82a2-4575-8bc6-63cdf4e2c96a,matted.guru,available,2.98,54.98,medium,low,6,namecheap,,,24/08/2026 16:52
@@ -642,18 +653,20 @@ b63789a6-2d65-4539-bdac-dd657936484e,bladder.guru,available,4.49,42.99,high,low,
 97bab415-6056-430a-9110-c4d0c25edbaa,cleverly.guru,available,3.99,,high,low,8,name.com,,,
 14ee2bb5-e3c1-41fd-9b9a-28d7259f0943,arteria.guru,available,4.49,42.99,high,low,7,namesilo,,,20/09/2026 10:30
 b70ed958-2f27-41bc-8858-116ec555e80b,freetown.guru,available,4.49,42.99,high,low,8,namesilo,,,24/09/2026 12:22
-22196d91-32ff-43f7-ab4d-1531265fc7ba,undergraduate.guru,available,3.99,,high,low,13,name.com,,,
+22196d91-32ff-43f7-ab4d-1531265fc7ba,undergraduate.guru,available,3.99,,medium,low,13,name.com,,,
 71e2a96e-dda9-44fc-bea7-5fbf76470c03,exception.guru,available,3.99,,high,low,9,name.com,,,
 346a2451-31c1-4d6f-83bd-e88b19b8cb18,unrested.guru,available,2.98,54.98,medium,low,8,namecheap,,,12/09/2026 18:02
 134c0566-bd89-4fc4-9bb8-35db033498a5,gaslit.guru,available,4.49,42.99,medium,low,6,namesilo,,,17/09/2026 16:25
 00f1346a-d447-4b9b-b59d-c803d2e17c98,zoophagous.guru,available,2.98,54.98,low,low,10,namecheap,,,18/08/2026 07:58
 8a5ea800-a2f5-45d4-a5a8-7ec0b72b2377,adad.guru,available,4.49,42.99,medium,low,4,namesilo,,,17/09/2026 06:02
+32b3dec5-4f83-4f21-a93d-e6aaa52059eb,therapist.guru,resell,,,high,low,9,,,,28/09/2026 02:06
+6441f658-ae7e-4f8b-be4d-3706243b2fa1,casualties.guru,available,2.27,34.36,medium,low,10,spaceship,,,27/09/2026 21:53
 c216aec0-b766-4606-9d5c-fbca1cd2efd2,adjectives.guru,available,4.49,42.99,medium,low,10,namesilo,,,18/09/2026 16:11
 a72fc3c1-b5c9-4477-9a98-27006c9818dd,climbable.guru,available,2.98,54.98,medium,low,9,namecheap,,,07/08/2026 00:10
 c290d686-b957-42dd-a98d-447446005e24,employment.guru,available,3.99,,high,low,10,name.com,,,
 c9500b18-d218-43f4-985f-14ad8b1080eb,eviscerate.guru,available,2.98,54.98,medium,low,10,namecheap,,,17/08/2026 15:10
 a70e17ca-67b3-47d0-b5b0-6785d254c430,blackcap.guru,available,2.98,54.98,medium,low,8,namecheap,,,23/09/2026 23:42
-fdde114f-3cb7-4d1c-8b4b-90f3617b861e,allegiant.guru,available,2.98,54.98,high,low,9,namecheap,,,
+fdde114f-3cb7-4d1c-8b4b-90f3617b861e,allegiant.guru,available,2.98,54.98,medium,low,9,namecheap,,,
 72c7065a-c8f2-419e-8265-f01e357939a2,worthwhile.guru,available,3.99,,high,low,10,name.com,,,
 e8b39859-77ad-482a-b54c-f779a094f002,uncoiled.guru,available,2.98,54.98,medium,low,8,namecheap,,,12/09/2026 05:44
 a2055670-5fe2-4ba6-92ba-df580cd3e0d4,scanty.guru,available,2.98,54.98,medium,low,6,namecheap,,,09/09/2026 22:38
@@ -666,8 +679,8 @@ c0bc4590-d8c5-4c8c-9185-1c96a46e39e8,doomed.guru,available,2.98,54.98,medium,low
 208bdefe-62eb-4bbc-84f5-a550c4dca2cc,ladle.guru,available,2.98,54.98,high,low,5,namecheap,,,22/08/2026 18:34
 b5748dda-4813-4067-affd-d5c3d94473d3,forgive.guru,available,3.99,,high,low,7,name.com,,,
 ecbabce3-4acd-4bbb-a9b4-8bfebf261b2d,plugged.guru,available,2.98,54.98,high,low,7,namecheap,,,08/09/2026 21:30
-5350d5d4-ca38-47ee-a85d-346d86e5ee34,woolen.guru,available,2.98,54.98,high,low,6,namecheap,,,13/09/2026 13:13
-bb7ffe59-8cb1-4ba0-9de8-f0fd9a62626e,malaria.guru,available,3.99,,high,low,7,name.com,,,
+5350d5d4-ca38-47ee-a85d-346d86e5ee34,woolen.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/09/2026 13:13
+bb7ffe59-8cb1-4ba0-9de8-f0fd9a62626e,malaria.guru,available,3.99,,medium,low,7,name.com,,,
 36e86b28-d552-4b1b-a3a3-72934b3e00d7,normandy.guru,available,3.99,,medium,low,8,name.com,,,
 3fd50607-6d0d-4f83-9acc-593e2bc5f505,unwilling.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/09/2026 22:40
 14a3bdc4-8f0b-421e-92cd-a3e8206e1d49,yummy.guru,available,2.98,54.98,high,low,5,namecheap,,,14/08/2026 00:26
@@ -675,7 +688,7 @@ b294c031-4b86-40ef-8538-833fb49f99f6,louvered.guru,available,2.98,54.98,medium,l
 b960b921-d2f4-4513-933a-36b520f367c1,diagnostic.guru,resell,,,high,low,10,"Sav.com, LLC - 30",14/05/2026 15:16,14/05/2027 15:16,26/09/2026 05:32
 7b137e82-4af3-4f20-9891-0bcc6a01448c,flashily.guru,available,2.98,54.98,medium,low,8,namecheap,,,14/09/2026 18:54
 0e711510-23a5-4573-86fd-a802103ab99b,might.guru,available,3.99,,high,low,5,name.com,,,
-9f91aa67-b710-4b65-855e-4268c8da1b63,sufficient.guru,available,3.99,,high,low,10,name.com,,,
+9f91aa67-b710-4b65-855e-4268c8da1b63,sufficient.guru,available,2.27,34.36,high,low,10,spaceship,,,28/09/2026 01:52
 249e24f8-d6f0-41a8-979a-3bdf8c566daf,bolster.guru,available,3.99,,high,low,7,name.com,,,
 52f08530-a2de-4849-b6c5-368b2d9e5b06,avahi.guru,available,4.49,42.99,medium,low,5,namesilo,,,21/09/2026 08:36
 798cc768-9097-4de0-a686-14e6e623c598,unrelated.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/09/2026 18:04
@@ -683,10 +696,11 @@ b960b921-d2f4-4513-933a-36b520f367c1,diagnostic.guru,resell,,,high,low,10,"Sav.c
 90c9b78d-7dde-4d5c-b35a-efa13ea91b89,venous.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/09/2026 02:10
 8b51e8b4-6c24-4698-9fcf-d2bce6ed5cd7,gel.guru,premium,260,260,high,low,3,namecheap,,,24/09/2026 16:20
 5d003d63-a60e-4d92-973c-131696de18f5,apathetic.guru,available,2.98,54.98,medium,low,9,namecheap,,,05/08/2026 22:04
+c903052d-e6e8-401a-ae6a-9145602ac184,sylvia.guru,premium,108.9,108.9,high,low,6,dynadot,,,27/09/2026 19:08
 e946f877-9e91-4062-85f1-18226fbb14c6,delivered.guru,available,2.98,54.98,medium,low,9,namecheap,,,25/09/2026 18:04
 3aff6200-3f76-43a2-9083-f770699e5298,acreage.guru,available,4.49,42.99,high,low,7,namesilo,,,17/09/2026 02:51
 8df943ba-1d7f-4a76-a271-170b47fc2536,flamboyant.guru,available,4.49,42.99,high,low,10,namesilo,,,22/09/2026 12:57
-9c9e47cb-68f7-492c-b639-3dd7a8175d1a,artemia.guru,available,2.98,54.98,high,low,7,namecheap,,,20/09/2026 10:09
+9c9e47cb-68f7-492c-b639-3dd7a8175d1a,artemia.guru,available,2.98,54.98,medium,low,7,namecheap,,,20/09/2026 10:09
 a54cb9b3-f7d6-4791-bd95-39563cf0e21f,berm.guru,available,2.98,54.98,medium,low,4,namecheap,,,23/09/2026 09:41
 49d4578e-4560-4071-bc7c-02dd1e3f381b,kid.guru,premium,854,854,high,low,3,namesilo,,,25/09/2026 12:09
 e13c71ed-4903-410b-aad3-51cbd9563425,airmailer.guru,available,4.49,42.99,medium,low,9,namesilo,,,17/09/2026 23:15
@@ -711,7 +725,7 @@ aeda5e25-4243-4a8c-92be-ccdb0ecd1055,candidacy.guru,available,3.99,,high,low,9,n
 2ef12480-5659-4bde-85b9-c9e25438e696,treed.guru,available,2.98,54.98,medium,low,5,namecheap,,,07/08/2026 11:13
 867608a8-1173-45e0-8939-a2eb7e0fcd8d,adiabatic.guru,available,2.98,54.98,medium,low,9,namecheap,,,
 8f036aa3-74b6-4129-b207-25801e28151c,couth.guru,available,2.98,54.98,medium,low,5,namecheap,,,13/08/2026 03:54
-601f944e-d769-4159-bbcc-60bedd4cd3d5,miscellany.guru,available,2.98,54.98,high,low,10,namecheap,,,25/08/2026 08:20
+601f944e-d769-4159-bbcc-60bedd4cd3d5,miscellany.guru,available,2.98,54.98,medium,low,10,namecheap,,,25/08/2026 08:20
 7477f380-7eb6-4ede-b45a-69325ff32e3a,samarium.guru,available,2.98,54.98,medium,low,8,namecheap,,,20/09/2026 23:24
 1242dd53-fb7b-4f74-8136-1cbe846f6da8,informing.guru,available,3.99,,high,low,9,name.com,,,
 e3abaa2f-3c51-4a7c-9566-051147010765,easy.guru,resell,,,high,high,4,"Sav.com, LLC - 11",01/08/2026 15:15,01/08/2027 15:15,26/09/2026 05:44
@@ -744,7 +758,7 @@ afd5136b-ab73-4819-b693-ff64a3fbe9b4,dye.guru,premium,242,242,high,low,3,namesil
 0d1b6dcb-9679-4d88-90d1-700f52944aad,scriabin.guru,available,2.98,54.98,high,low,8,namecheap,,,18/09/2026 05:07
 8c5b455b-74a7-4860-80db-fb17c28376b6,unshoed.guru,available,2.98,54.98,low,low,7,namecheap,,,12/09/2026 19:51
 cc384ad0-3932-4843-9e40-4ec390211532,mazy.guru,available,2.98,54.98,medium,low,4,namecheap,,,22/08/2026 17:42
-70816d4b-f599-49bb-bdd4-c52662ed9e9c,anatolian.guru,available,4.49,42.99,high,low,9,namesilo,,,19/09/2026 03:29
+70816d4b-f599-49bb-bdd4-c52662ed9e9c,anatolian.guru,available,4.49,42.99,medium,low,9,namesilo,,,19/09/2026 03:29
 e05bb9b8-1b44-4cf7-9a8b-0a6fdb7b818b,caffeine.guru,available,4.49,42.99,high,low,8,namesilo,,,24/09/2026 11:38
 6e892f59-3bdd-4fb7-bbd2-3b098c309d6f,lifelike.guru,available,2.98,54.98,high,low,8,namecheap,,,23/08/2026 01:41
 0f2b9689-8af6-4c5a-8d7d-55bdeb6b93b4,inaudible.guru,available,2.98,54.98,medium,low,9,namecheap,,,22/08/2026 00:33
@@ -760,7 +774,7 @@ fcf3c4e1-70c1-4a59-9aa5-09587e392d7c,yeasty.guru,available,2.98,54.98,medium,low
 911e54c1-d27c-4ed5-a6b9-0bc77ddddc6f,sucked.guru,available,4.49,42.99,medium,low,6,namesilo,,,18/09/2026 04:29
 d019438b-caba-44d0-8780-c13409181b4d,kidney.guru,available,3.99,,high,low,6,name.com,,,
 efd69cc9-9049-4c33-808a-a55374750a8d,creditors.guru,available,4.49,42.99,medium,low,9,namesilo,,,20/09/2026 15:31
-473b946c-bbee-407f-84ed-78743138ba95,roomy.guru,available,3.99,,high,low,5,name.com,,,
+473b946c-bbee-407f-84ed-78743138ba95,roomy.guru,available,4.49,42.99,high,low,5,namesilo,,,27/09/2026 16:14
 49e609f2-4c87-475e-93ab-e9a56302dab0,azote.guru,available,2.98,54.98,medium,low,5,namecheap,,,21/09/2026 11:27
 2db48eb3-0320-4119-82c0-7b99cd456b94,punish.guru,available,2.98,54.98,high,low,6,namecheap,,,27/09/2026 06:05
 0e009e63-e002-4de8-a0f6-4d4a5db00280,aborigine.guru,available,2.98,54.98,medium,low,9,namecheap,,,
@@ -773,10 +787,10 @@ a079d8f1-413b-40d8-9c3e-f0250b81d145,warburg.guru,available,2.98,54.98,medium,lo
 b9dd3445-9f84-4751-b113-a9a189b716cf,greed.guru,available,4.49,42.99,high,low,5,namesilo,,,21/09/2026 08:43
 dc19c842-0cb1-4b94-b71f-54d9bf120133,propertied.guru,available,2.98,54.98,medium,low,10,namecheap,,,09/09/2026 03:34
 83e250e4-37e6-4bb7-be33-f192904dc7b5,cherimoya.guru,available,4.49,42.99,medium,low,9,namesilo,,,19/09/2026 10:32
-3f1fb8c8-a20f-4eb5-b99c-c020557a701b,litre.guru,available,2.98,54.98,high,low,5,namecheap,,,22/08/2026 17:09
+3f1fb8c8-a20f-4eb5-b99c-c020557a701b,litre.guru,available,2.98,54.98,medium,low,5,namecheap,,,22/08/2026 17:09
 be266ad7-761b-42e2-9c42-c333e6f7957e,preferences.guru,available,2.98,54.98,high,low,11,namecheap,,,
 a50a4043-19aa-46a5-98f5-4c618725d8e5,downriver.guru,available,2.98,54.98,medium,low,9,namecheap,,,14/08/2026 18:01
-d913d6de-f49f-4797-ba58-cd9da86471a1,effectively.guru,available,3.99,,high,low,11,name.com,,,
+d913d6de-f49f-4797-ba58-cd9da86471a1,effectively.guru,available,3.99,,medium,low,11,name.com,,,
 cfd4dc3e-e280-4c4d-a4a7-9a4387b476e5,lusaka.guru,available,2.98,54.98,medium,low,6,namecheap,,,24/09/2026 12:35
 def815ae-8dda-46f5-86a7-d99f854dae35,haggard.guru,available,2.98,54.98,medium,low,7,namecheap,,,10/08/2026 18:56
 14c32556-38d4-476f-beeb-fa17808c0262,uninsured.guru,available,2.98,54.98,medium,low,9,namecheap,,,12/09/2026 13:28
@@ -832,7 +846,7 @@ abbf7ad5-0e27-4a0e-9313-1313a2db27c4,expects.guru,available,4.49,42.99,medium,lo
 bb991637-dbae-40db-b953-1f79812acab4,unlabelled.guru,available,2.98,54.98,medium,low,10,namecheap,,,12/09/2026 14:33
 2dedb5dd-cd85-4d68-b73c-521c1a7d10ec,infallible.guru,available,2.98,54.98,high,low,10,namecheap,,,22/08/2026 04:05
 0786ed91-d7ae-43d6-9834-cbd61aab3ec2,stupefied.guru,available,3.99,54.99,medium,low,9,name.com,,,13/08/2026 18:55
-2ff29413-7d08-427b-ad69-1fcf71518274,mindfully.guru,available,2.98,54.98,high,low,9,namecheap,,,13/09/2026 17:29
+2ff29413-7d08-427b-ad69-1fcf71518274,mindfully.guru,available,2.98,54.98,medium,low,9,namecheap,,,13/09/2026 17:29
 45ffff1c-b2c3-4c0b-8e9c-04aa05691baf,imagined.guru,available,4.49,42.99,high,low,8,namesilo,,,27/09/2026 09:43
 e8b2bff7-d4af-43b4-82d5-6ceab3779187,angler.guru,available,4.49,42.99,high,low,6,namesilo,,,18/09/2026 11:39
 90e29310-c150-4b29-946c-ae20a5e4d7a0,orpine.guru,available,2.98,54.98,medium,low,6,namecheap,,,24/08/2026 07:58
@@ -848,11 +862,11 @@ b870d74a-4c4a-403e-ac53-fcd342801d9c,jussieu.guru,available,4.49,42.99,medium,lo
 a012bee1-b549-4a24-b30f-536d84b50340,delightful.guru,available,4.49,42.99,high,low,10,namesilo,,,24/09/2026 05:38
 543b0d72-b9d1-41dc-9dec-0fc59b3d1b8a,failures.guru,available,2.98,54.98,low,low,8,namecheap,,,20/09/2026 17:55
 a9f1fc0c-9ea5-408e-bd28-7a13af4b66b5,fixed.guru,available,2.98,54.98,high,low,5,namecheap,,,24/09/2026 19:10
-b8bd8e86-f699-4d4d-860e-868c7e51623f,scrubbed.guru,available,3.99,,high,low,8,name.com,,,
+b8bd8e86-f699-4d4d-860e-868c7e51623f,scrubbed.guru,available,2.27,34.36,medium,low,8,spaceship,,,27/09/2026 18:56
 5079febc-56ab-4e72-84d1-34b6a4c1c75f,sublimed.guru,available,2.98,54.98,medium,low,8,namecheap,,,11/09/2026 00:03
 67ac9537-4481-43b6-9c52-84b711c36849,outlander.guru,available,2.98,54.98,medium,low,9,namecheap,,,
 094d3825-f649-467f-8cce-68462d67ca22,airhead.guru,available,2.98,54.98,high,low,7,namecheap,,,17/09/2026 23:11
-1df0d09a-657c-4dbf-852f-79757898d623,sultry.guru,available,2.98,54.98,high,low,6,namecheap,,,10/09/2026 20:31
+1df0d09a-657c-4dbf-852f-79757898d623,sultry.guru,available,2.98,54.98,medium,low,6,namecheap,,,10/09/2026 20:31
 106affaa-c290-46f6-9d14-9fed8fdadb91,ablaze.guru,available,2.98,54.98,high,low,6,namecheap,,,
 5ebc1da8-de92-4640-ae86-7117714f47a4,immune.guru,resell,,,high,low,6,Unstoppable Domains Inc,04/04/2026 08:57,04/04/2027 08:57,26/09/2026 06:49
 bed165d5-47d9-4302-884b-07696abdfe21,uncaused.guru,available,2.98,54.98,medium,low,8,namecheap,,,18/08/2026 12:45
@@ -864,17 +878,17 @@ bed165d5-47d9-4302-884b-07696abdfe21,uncaused.guru,available,2.98,54.98,medium,l
 24f10048-5333-4c73-b935-bfa7a8d55d10,weaned.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/09/2026 08:53
 683422b1-c1db-4a55-94b1-7ed6ff71c71b,spender.guru,available,4.49,42.99,high,low,7,namesilo,,,19/09/2026 09:49
 41f41808-42ce-4ed9-b285-26a2cf8f388b,redden.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/08/2026 06:34
-08a49c4b-c93d-4f8e-9920-a7e0938b44f2,thunder.guru,resell,,,high,low,7,Dynadot Inc,15/06/2026 17:00,15/06/2027 17:00,26/09/2026 09:37
+08a49c4b-c93d-4f8e-9920-a7e0938b44f2,thunder.guru,resell,,,high,low,7,Dynadot Inc,15/06/2026 17:00,15/06/2027 17:00,27/09/2026 15:41
 8b56c5d4-7ba5-48b1-bf2b-36c22cf83d71,mandatory.guru,available,2.98,54.98,high,low,9,namecheap,,,23/09/2026 18:22
 1f20a0e6-cc4b-4ae2-a02f-717559695564,credible.guru,available,2.98,54.98,high,low,8,namecheap,,,09/08/2026 12:56
 1c1e15b2-8c24-4107-b66f-62bba0e47d41,cashed.guru,available,2.98,54.98,high,low,6,namecheap,,,11/08/2026 20:15
-6e6ece78-88b5-49ef-b379-3b09d1a2fe88,farmstand.guru,available,3.99,,high,low,10,name.com,,,
+6e6ece78-88b5-49ef-b379-3b09d1a2fe88,farmstand.guru,available,3.99,,medium,low,10,name.com,,,
 7e948043-d77b-4354-b7f5-53a05e878425,sydney.guru,premium,242,242,high,low,6,namesilo,,,25/09/2026 10:47
 f5a529fd-c7c3-4fdb-b9e9-2415b1b7f935,unshaved.guru,available,2.98,54.98,low,low,8,namecheap,,,12/09/2026 19:42
 a643b9e2-a6ba-44d0-b967-c9a70faf0786,clubs.guru,available,4.49,42.99,high,low,5,namesilo,,,27/09/2026 08:43
 c168f880-c320-4103-9ff2-7340d58c1041,cecilia.guru,available,4.49,42.99,medium,low,7,namesilo,,,26/09/2026 03:37
 50717e0c-fc62-4f08-9a28-6d2d18e1649f,bureau.guru,available,4.49,42.99,high,low,6,namesilo,,,17/09/2026 17:00
-c90f1627-c9a8-4895-b371-24458c7c7408,moreover.guru,available,2.98,54.98,high,low,8,namecheap,,,14/09/2026 20:44
+c90f1627-c9a8-4895-b371-24458c7c7408,moreover.guru,available,2.98,54.98,medium,low,8,namecheap,,,14/09/2026 20:44
 01e09432-d6f7-481c-ad98-215bf1e5f385,coordinate.guru,available,3.99,54.99,high,low,10,name.com,,,
 5d4ecc79-3cc7-462d-8c20-0c693d16f940,arccos.guru,available,4.49,42.99,medium,low,6,namesilo,,,20/09/2026 01:15
 959f1efe-ce78-4a6a-854a-be6c94bda919,drives.guru,available,4.49,42.99,medium,low,6,namesilo,,,25/09/2026 17:24
@@ -895,7 +909,7 @@ ddf40565-1791-4aef-9c62-33563cf88dab,atavist.guru,available,2.98,54.98,medium,lo
 347d829e-8ec8-423c-8aec-e5b414131ab2,heathen.guru,available,2.98,54.98,high,low,7,namecheap,,,18/08/2026 21:55
 a61b914f-a973-4f09-86f4-53c36d1c560e,sunken.guru,available,2.98,54.98,medium,low,6,namecheap,,,13/08/2026 22:55
 3028ada3-fadd-4949-a215-f8e2e811e59d,offices.guru,resell,,,medium,low,7,"GoDaddy.com, LLC",14/02/2026 07:26,14/02/2027 07:26,26/09/2026 07:52
-5699aaeb-75c6-4ae5-9e4b-54fc44240109,thiamin.guru,available,4.49,42.99,high,low,7,namesilo,,,19/09/2026 05:39
+5699aaeb-75c6-4ae5-9e4b-54fc44240109,thiamin.guru,available,4.49,42.99,medium,low,7,namesilo,,,19/09/2026 05:39
 b4a19871-38d6-45f4-bb28-4517d1113ca5,synchronal.guru,available,2.98,54.98,medium,low,10,namecheap,,,11/09/2026 06:13
 47d8c3aa-2f10-44e2-8d41-38fc9942d1f1,stilt.guru,available,4.49,42.99,medium,low,5,namesilo,,,21/09/2026 04:51
 ea7f122e-38a2-409a-be67-2c9263762fcf,werewolves.guru,available,4.49,42.99,low,low,10,namesilo,,,19/09/2026 01:01
@@ -910,12 +924,12 @@ fa34ec21-9967-4b54-abef-168c2734818c,strident.guru,available,2.98,54.98,medium,l
 75d735d1-d358-49f8-b14d-86220fbf36da,jelled.guru,available,2.98,54.98,medium,low,6,namecheap,,,12/08/2026 21:27
 3e05986f-95c5-4e3d-82ad-62b2f84d9136,unmelted.guru,available,2.98,54.98,low,low,8,namecheap,,,12/09/2026 15:35
 e57e76f3-1f60-4e9b-bbcf-70efe5d18613,baring.guru,available,4.49,42.99,medium,low,6,namesilo,,,22/09/2026 06:03
-bf405d28-f851-46d9-8106-bcb63629ed57,antelope.guru,resell,,,high,low,8,"GoDaddy.com, LLC",29/11/2021 01:03,29/11/2026 01:03,26/09/2026 03:54
+bf405d28-f851-46d9-8106-bcb63629ed57,antelope.guru,resell,,,medium,low,8,"GoDaddy.com, LLC",29/11/2021 01:03,29/11/2026 01:03,26/09/2026 03:54
 abd37c45-3e4c-449b-8224-0b31d1fdd4a8,famously.guru,available,2.98,54.98,high,low,8,namecheap,,,14/09/2026 16:46
 48745555-2fae-44fb-9002-0c03d05f5ae1,algorithm.guru,resell,,,high,low,9,"Sav.com, LLC",08/09/2025 17:19,08/09/2027 17:19,26/09/2026 03:47
 2d23599e-284f-40e7-b829-49cf0b789a60,annexation.guru,available,2.98,54.98,medium,low,10,namecheap,,,19/09/2026 10:25
 9e113ee1-f94f-4548-bb7c-62a778cc4d82,ibuprofen.guru,available,4.49,42.99,high,low,9,namesilo,,,17/09/2026 11:14
-91b204e2-3427-4a96-bc5d-a1bd6fd15c35,centennial.guru,available,2.98,54.98,high,low,10,namecheap,,,11/08/2026 23:53
+91b204e2-3427-4a96-bc5d-a1bd6fd15c35,centennial.guru,available,2.98,54.98,medium,low,10,namecheap,,,11/08/2026 23:53
 e6a3f061-4666-40ea-8c8e-b7220af07407,breakfasts.guru,available,4.49,42.99,medium,low,10,namesilo,,,20/09/2026 13:21
 25283bde-b973-4039-aa2c-dba887010731,neurologic.guru,available,2.98,54.98,medium,low,10,namecheap,,,03/09/2026 16:16
 4bf2bae1-8f50-4d2e-823a-fb1a4246cefb,turnovers.guru,available,2.98,54.98,medium,low,9,namecheap,,,19/09/2026 22:02
@@ -941,7 +955,7 @@ ca69b60b-a109-4fde-bab0-bc8d4ad1ab9e,ictic.guru,available,2.98,54.98,low,low,5,n
 85f46341-02a2-4352-a1e6-793a161731bc,did.guru,premium,242,242,high,low,3,namesilo,,,
 98dcf789-03fe-469c-897e-03077a585f88,milch.guru,available,2.98,54.98,medium,low,5,namecheap,,,24/08/2026 22:55
 914ca72a-b8c0-4e9e-80ce-16e27d09e198,inherent.guru,available,4.49,42.99,high,low,8,namesilo,,,23/09/2026 10:30
-c42f8a15-6a2a-4740-a799-fc47a38cdcf7,minus.guru,available,2.98,54.98,high,low,5,namecheap,,,25/08/2026 00:55
+c42f8a15-6a2a-4740-a799-fc47a38cdcf7,minus.guru,available,2.98,54.98,medium,low,5,namecheap,,,25/08/2026 00:55
 e3b73991-1b9d-48fa-b692-6437862ce03f,allele.guru,available,2.98,54.98,medium,low,6,namecheap,,,18/09/2026 10:44
 c30833d8-4e3d-43ad-89cd-4d1a1a03edc8,gritty.guru,available,2.98,54.98,medium,low,6,namecheap,,,12/08/2026 14:03
 da2908d3-262e-4901-b661-3c27a7805b95,expectable.guru,available,2.98,54.98,medium,low,10,namecheap,,,17/08/2026 18:02
@@ -951,8 +965,8 @@ a80535cf-b3c3-4e47-a6b8-d5965fc6bc9c,guerilla.guru,available,2.98,54.98,high,low
 2ba3c5bd-900f-4c2a-a6df-4912b9a7f302,almond.guru,available,3.99,,high,low,6,name.com,,,
 18eca4fb-321e-4089-8d8b-0ac285370cb5,commence.guru,available,4.49,42.99,high,low,8,namesilo,,,23/09/2026 02:22
 4e96b964-ed7f-4747-8bb9-10877c25e336,clockwise.guru,available,2.98,54.98,high,low,9,namecheap,,,12/08/2026 11:33
-271632cb-a477-443e-a917-132f37b89b4f,melville.guru,available,4.49,42.99,high,low,8,namesilo,,,25/09/2026 07:18
-fa8af37a-b263-4729-aee9-0c2cdcd4f76a,annoy.guru,available,3.99,,high,low,5,name.com,,,
+271632cb-a477-443e-a917-132f37b89b4f,melville.guru,available,4.49,42.99,medium,low,8,namesilo,,,25/09/2026 07:18
+fa8af37a-b263-4729-aee9-0c2cdcd4f76a,annoy.guru,available,3.99,,medium,low,5,name.com,,,
 f5094a49-3f78-444b-9fd7-c6370d59aa6b,spent.guru,available,2.98,54.98,medium,low,5,namecheap,,,14/08/2026 14:53
 fd4e3b96-835a-4978-b453-329ba9aa95a5,polled.guru,available,2.98,54.98,high,low,6,namecheap,,,20/09/2026 17:21
 327cb31d-f6fa-4a51-a814-5fb286b457d0,chequebook.guru,available,2.98,54.98,medium,low,10,namecheap,,,24/09/2026 13:58
@@ -970,7 +984,7 @@ fcf8b73e-bffc-4eb5-bc1e-0b50d11f4cba,retrieve.guru,available,3.99,,high,low,8,na
 3237e51b-d556-487c-ae65-c1757cfddb10,yourselves.guru,available,3.99,,medium,low,10,name.com,,,
 1e7f2d4f-d7a0-4a5f-a495-6849064c1f02,ailanthus.guru,available,2.98,54.98,medium,low,9,namecheap,,,17/09/2026 21:07
 1e05d40c-9486-4990-85ab-6f100859bd23,floaty.guru,available,2.98,54.98,high,low,6,namecheap,,,11/08/2026 10:08
-a29ead13-3225-45fc-b70c-a799159571c0,frisky.guru,available,2.98,54.98,high,low,6,namecheap,,,18/08/2026 16:02
+a29ead13-3225-45fc-b70c-a799159571c0,frisky.guru,available,2.98,54.98,medium,low,6,namecheap,,,18/08/2026 16:02
 3a48d97e-e69a-4acf-bacd-2bd8c985312a,spoilt.guru,available,2.98,54.98,medium,low,6,namecheap,,,10/08/2026 14:19
 3aa792d0-5be0-4128-b61c-8987984b46b3,artesian.guru,available,2.98,54.98,medium,low,8,namecheap,,,06/08/2026 22:39
 c7474122-6a61-45b2-aaad-a202888d4d50,miri.guru,premium,242,242,high,low,4,namesilo,,,16/09/2026 16:35
@@ -985,17 +999,3 @@ fdbcb4d7-9dc3-4c3b-b87a-53aa3ee4efd0,homeless.guru,available,2.98,54.98,high,low
 53e4ad5f-2f3c-41a3-8774-ff195f4c8c57,motherly.guru,available,2.98,54.98,high,low,8,namecheap,,,25/08/2026 07:06
 93e2e9df-8d4c-4738-a924-b57debd77fb8,britannic.guru,available,2.98,54.98,medium,low,9,namecheap,,,11/08/2026 04:44
 e36bb7e5-b322-42e5-af8c-31bd1efa8903,jamesian.guru,available,2.98,54.98,medium,low,8,namecheap,,,22/08/2026 12:13
-2919efb5-76de-4657-a0c3-d8467652cfa6,orchestra.guru,available,3.99,,high,low,9,name.com,,,
-a4db88e0-063a-49a1-a015-baf612662f5f,platter.guru,available,3.99,,high,low,7,name.com,,,
-5da46bbf-948c-4a2f-8d89-3cac64a93c19,banns.guru,available,4.49,42.99,medium,low,5,namesilo,,,22/09/2026 02:56
-e659ff6c-de1b-47cb-a7f8-dc5fd0602988,slav.guru,available,2.98,54.98,high,low,4,namecheap,,,10/09/2026 10:28
-1a1ebeb8-00f4-4e57-8e88-60b5501ba70a,penalties.guru,available,3.99,,high,low,9,name.com,,,
-81ff32b2-c166-4bb1-ab29-9662d3b4e343,feasting.guru,available,4.49,42.99,high,low,8,namesilo,,,22/09/2026 03:07
-43888b9f-7129-4596-a5f0-0d0bc5c4725d,alee.guru,available,2.98,54.98,low,low,4,namecheap,,,13/09/2026 18:38
-a724a9c9-9d9b-438d-ac59-53979a3a25cc,evidenced.guru,available,2.98,54.98,high,low,9,namecheap,,,17/08/2026 15:00
-01fdcd8c-9cec-4df3-9d00-b71e529cc38f,endoergic.guru,available,2.98,54.98,medium,low,9,namecheap,,,17/08/2026 01:08
-5212b8ee-7474-4319-86b3-30304afaa804,february.guru,available,3.99,,high,low,8,name.com,,,
-e45c84c7-7bd9-4f4a-a097-0566fd309f6c,attended.guru,available,4.49,42.99,high,low,8,namesilo,,,22/09/2026 11:17
-5f1c0abc-7a05-4587-9d1e-7029b54ff099,unshaped.guru,available,2.98,54.98,medium,low,8,namecheap,,,12/09/2026 19:31
-7c0f0040-73e5-412b-a352-c29d6b1bea60,diplomacy.guru,available,3.99,,high,low,9,name.com,,,
-984914c8-673e-4305-a52a-79aa0e8418d9,actress.guru,available,3.99,,high,low,7,name.com,,,
